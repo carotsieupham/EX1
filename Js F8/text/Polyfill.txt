@@ -1,0 +1,16 @@
+Polyfill 
+if(!String.prototype.includes){
+    String.prototype.includes = function(search,start){
+        'use strict'
+        if(search instaceof RegExp){
+            throw TypeError('first argument must not be a RegExp')
+        }
+        if(start ==undefined){start =0}
+        return this.indexOf(search,start)!==-1;
+    };
+}
+Đoạn mã trên sẽ kiểm tra có tồn tại phương thức includes của đối tượng string k
+Nếu có tồn tại thì sẽ không lọt vào đk này
+Ngược lại thì phương thức includes sẽ được tự định nghĩa
+search:là đoạn chuỗi muốn tìm kiếm
+start:Vị trí bắt đầu tìm kiếm

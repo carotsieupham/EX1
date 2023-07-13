@@ -1,0 +1,73 @@
+Update, Upgrade Packages
+syntax:
+sudo apt update
+# và
+sudo apt upgrade
+--------------------------------------------------------------
+Lệnh ls,cd,clear
+-ls giúp cho ta biết trong thư mục có những thư mục con,file nào
+    ls -a để nhìn được các thư mục ,file ẩn
+    ls -R nhìn được con của các thư mục con 
+-cd sử dụng trong trường hợp di chuyển qua lại các thư mucj
+-clear dùng để xóa các lệnh trên terminal
+----------------------------------------------------------------
+Lệnh mkdir,touch,vi
+-mkdir tạo một thư mục trong thư mục đang đứng hiên tại
+-rmdir xóa thư mục
+    rm -r sẽ xóa luôn folder đó lẫn cấp con của nó
+-touch chỉ đơn giản là muốn tạo 1 file không cần nội dung
+-vi là editor mặc định được cài trên hệ điều hành
+----------------------------------------------------------------
+Lệnh cat,echo,tail,grep
+-cat dùng để xem nội dung file và ghép được nội dung các file với nhau
+-echo in nội dung ra stl 
+-tail xem những  dòng cuối trong 1 file
+----------------------------------------------------------------
+Lệnh cp,mv,rm,rmdir
+-cp để copy file
+-mv để di chuyển file
+-rmdir xóa thư mục trống 
+    rm -r sẽ xóa luôn folder đó lẫn cấp con của nó
+-rm để xóa file
+-----------------------------------------------------------------
+Lệnh sudo,chmo,chown
+-sudo là superuserdo dùng để có quyền cao hơn 
+-chmod là để phân quyền  khi dùng lệnh này phải dùng sudo
+    nó có 3 vai trò:
+        vai trò 1 là User là chủ sở hữu
+        vai trò 2 là Group nhóm sở hữu
+        vai trò 3 là Orther nhưng người còn lại
+    vể quyền hạn có 3 quyền:
+        Quyên đọc là read
+        Quyền ghi là write
+        Quyển thực thi là execute
+    Sau khi dùng lệnh ls -l /
+    thì chữ đầu tiên 
+        d là thư mục 
+        - là file
+        l là shortcut
+    Ba chữ cái tiếp theo thể hiện quyên hạn cho nhóm User
+    Ba kí tự tiếp theo thể hiện cho nhóm Group
+    Ba kí tự cuối cùng thể hiện cho nhóm Orther
+-chown là để đổi quyền
+-----------------------------------------------------------------
+Lệnh man,wget,apt
+-man dùng để tra cứu các lệnh trong linux,ubuntu
+-wget dùng lệnh này để tải các file
+-apt
+-----------------------------------------------------------------
+Lệnh kill,ping,uname,passwd
+-kill là kết thúc một tiến trình
+-ping là thể hiện tốc độ kết nối 
+-uname(unit name) để cố thể xem được thông tin của hệ điều hành 
+-passwd để đổi mk của tài khoản hiện tại
+----------------------------------------------------------------
+Lệnh top,df,free
+-top tương tự như taskmanager
+-df kiểm tra ổ cứng
+-free kiểm tra về ram,swap
+----------------------------------------------------------------
+Các mẹo
+    -Nhấn tab để auto complete
+    -Nhấn ctrl + a / ctrl + e để di chuyển về đầu / cuối command
+    -Chạy đồng thời nhiều commands: command-1;command-2;command-3, command-1 && command-2 && command-3

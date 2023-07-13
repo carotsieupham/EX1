@@ -1,0 +1,1 @@
+cout<<"nhap 1 so n";cin>>n;

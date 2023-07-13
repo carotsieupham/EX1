@@ -1,0 +1,32 @@
+ECMAScript 6(ES6) là một quy chuẩn được ra đời vào năm 2015
+------------------------------------------------
+var / let,const:Scope,Hosting
+const / var ,let:assignment
+Code block:if else, loop,{},...
+Khi code thuần : var
+Khi định nghĩa biến và không gán lại biến đó :const
+Khi cần gán lại giá trị cho biến :Let
+----------------------------------------
+Destructuring(phân rã)
+var [a,b,c] =array
+    {}
+Rest lấy phần tử còn lại trừ những thằng đã Destructuring
+Nó là Rest khi dùng với Destructuring hoặc là khi sử dụng là tham số
+Còn lại là Spread
+Khi sử dụng làm tham số trong hàm nó sẽ trả về một mảng là các giá trị nhận được qua tham số
+----------------------------------------
+Spread
+Khi dùng trước thằng array và obj nó sẽ bỏ dấu [],{}
+và chỉ lấy giá trị bên trong
+--------------------------------------------
+Tagged template literals
+tên hàm`string`
+-----------------------------------------------
+Modules phải thêm vào thẻ script ở html để sử dụng bằng cách thêm type="module"
+Dùng để bóc tách
+file a export cái gì thì b import cái đó
+khi import có Destructuring thì nó import những cái k export default còn ngược là export default
+import * để lấy tất cả export và các cái export được trả về sẽ dưới dạng obj
+-------------------------------------------------
+Optional chaining(?.)
+Khi ta nghi ngò một key nào của obj k tồn tại hãy thêm ? vào đằng trước

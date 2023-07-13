@@ -1,0 +1,63 @@
+IIFE-Immediately Invoked Function Expression
+là 1 function expression được gọi ngay lập tức hay có thể nói rõ ràng hơn nó là 1 biểu thức tạo ra một hàm và hàm đó đc gọi ngay lâp thức
+còn có cách gọi khác Self-Invoking Function
+1.IIFE trông như thế nào?
+    (function(){
+        console.log()
+    })()
+2.Dùng dâu ; trươc IIFE
+    Như vầy sẽ lỗi
+    let fullName = 'Tri'
+    (function(){
+        console.log()
+    })()
+    Nên sử dụng dấu ; ở cuối hoặc đầu
+    let fullName = 'Tri';
+    (function(){
+        console.log()
+    })()
+    3.IIFE là hàm "private"(không phải private trong OOP)
+    Không thể dùng được như vầy
+    (function my(){
+        console.log()
+    })()
+    my()
+    Nhưng vẫn có thể dùng để đệ quy
+4.Sử dụng khi nào ?
+    IIFE không có tính sử dụng lại và không cần thiết đặt tên
+    Khi dự án to việc trùng tên biến tên hàm là thường xuyên và có thể gặp lỗi,ghi đè
+    Khi đó sử dụng IIFE vì nó có tính private sử dụng khi không muốn tên biến và hàm ảnh hưởng đển phạm vi global
+5.Cách tạo ra một IIFE
+    (function(){
+            console.log()
+    })()
+    Cách này phổ thông nhất
+    hoặc
+      (function(){
+            console.log()
+    }())
+    hoặc
+    !(+,-,..)function(){
+            console.log()
+    }()
+---------------------------------------------------------------------------------------------------------------------------
+Scope - Phạm vi
+-Các loại phạm vi:
+    -Global-Toàn câu
+    -Code block - khối mã:let const
+    -Local scope-Hàm: var,function
+-Khi gọi mỗi hàm luôn có 1 phạm vi mới được tạo
+-Các hàm có thể truy cập các biến được khai báo trong phạm vi của nó và bên ngoài nó
+-Cách thức một biến được truy cập
+-Khi nào một biến bị xóa khỏi bộ nhớ?
+    -Biến toàn cầu bị xóa khi tắt,thoát chương trình
+    -Biến trong code block & trong hàm khi thoát khỏi khối thì biến đó sẽ được xóa khỏi bộ nhớ
+    -Biến trong hàm được tham chiếu bởi 1 hàm?
+----------------------------------------------------------------------------------------------------------------------------
+Closure là một hàm có thể ghi nhớ nơi nó được tạo và truy cập được biến ở bên ngoài phạm vi của nó
+-Ứng dụng
+    -Viết code ngắn gọn hơn
+    -Biểu diễn, ứng dụng tính Private trong OOP
+-Lưu ý 
+    -Biến được tham chiếu(refer) trong closure sẽ không được xóa khỏi bộ nhớ khi hàm cha thực thi xong
+    -Các khải niệm Javascript nâng cao rất dễ gây nhầm lẫn

@@ -1,0 +1,22 @@
+JSON(Javascript Object Notation) là 1 định dạng dữ liệu(chuỗi)
+JSON:Number,Boolean,Null,Array,Object
+Có 2 thao tác : Mã hóa (Encode),Giải mã(decode)
+JSON.Stringify(Từ JVS type->JSON)/JSON.Parse(Từ JSON -> JVS type)
+-----------------------------------------------------------------
+Promise dùng để xử lý các thao tác bất đồng bộ
+-Sync(Đồng bộ)
+-Async(Bất đồng bộ):setTimeout , setInterval,fetch,XMLHttpRequest, file rading,request animation frame
+-Nỗi đau
++Callback hell
++Pyramid of doom
+-Lý thuyết,cách hoạt dộng
+-Thực hành, ví dụ
+--------------------------------------------------------------------------
+API(URL) được hiểu là cổng giao tiếp giữa các phần mềm
+Backend -> API -> Fetch ->JSON->JSON.parse-> JVS types->Render ra giao diện với HTML
+--------------------------------------------------------------------------
+Postman
+Create:Tạo mới ->Post
+Read:Lấy dữ liệu->Get
+Update:Chỉnh sửa ->Put/Patch
+Delete:Xóa ->Delete

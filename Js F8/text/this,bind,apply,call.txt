@@ -1,0 +1,34 @@
+bind là ràng buộc
+//Vd1
+this.firstName ="Minh"
+this.lastName="Thu"
+const teacher={
+    firstName:"Minh"
+    lastName:"Thao"
+    getFullName(){
+        return`${this.firstName} ${this.lastName}`
+    }
+}
+//case 1:
+console.log(teacher.getFullName())//"Minh Thao"
+//case 2:
+const getTeacherName=teacher.getFullName
+console.log(getTeacherName())//"Minh Thu"
+-----------------------------------------------------------------------------------
+call được sử dụng để gọi hàm hoăc gọi method cũng có thể bind(this) luon
+Khác nhau giữa call và bind là call sẽ bind(this) sau đó gọi hàm lun và bind thì chỉ bind(this) th
+-------------------------------------------------------------------------------------
+apply tương tự như phương pháp call và đối số được truyền là mảng
+apply và call tương tự nhau khi dùng thấy thk nào tiện ngắn hơn thì dùng
+--------------------------------------------------------------------------------------
+Khác nhau của 3 thằng trên
+Bind method
+- Trả ra hàm mới với `this` tham chiếu tới `thisArg`
+-Không thực hiện gọi hàm
+-Nếu được bind kèm `arg1, arg2,...` thì các đối số này sẽ được ưu tiên hơn
+Call method
+-Thực hiện bind `this` với `thisArg` và thực hiện gọi hàm
+-Nhận các đối số cho hàm goocs từ `arg1,arg2,..`
+Apply method
+-Thực hiện bind `this` với `thisArg` và thực hiện gọi hàm
+-Nhận các đối số cho hàm gốc bằng đối số thứ 2 dưới dạng mảng `[arg1,arg2,...]`

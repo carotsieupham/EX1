@@ -1,0 +1,23 @@
+DOM(Document Object Model)
+Gồm 3 thành phần:
++Element(các thẻ tag vd:<head>)
++Attribute()
++Text
+--------------------------------
+Javascript:Browser | Sever(NodeJS)
+API (Application programming interface)
+Browser:HTML -> DOM -> DOM API
+-----------------------------------
+Element:ID, class, tag,CSS selector,HTML colection
+document.getElementById('Ten ID')
+document.getElementsByClassName('Ten class')
+document.getElementsByTagName('Ten tag')
+document.querySelector('.class')
+                        #Id
+                        tag
+---------------------------------
+DOM Style
+.style
+
+
+

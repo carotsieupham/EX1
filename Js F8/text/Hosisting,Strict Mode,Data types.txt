@@ -1,0 +1,49 @@
+Hoisting mang ý nghĩa là đưa lên trên khi nhắc đến trong jvs thì nó có nghĩa là khai báo biến ,hàm sẽ được đưa lên trên phạm vi khai báo
+//VD1
+    console.log(age) //undefined
+    console.log(fullname)  //RefernceError:fullname is not defined
+    var age = 16
+    -Ở đoạn này phần khai báo tức phần var age sẽ được đưa lên đầu nên age có giá trị là undefined
+    //Vd2
+    console.log(sum(6,9))15
+    function sum(a,b){
+        return a+b
+    }
+    -Đối với function decoration thì cả cụm hàm nó sẽ được đưa lên
+    //Vd3
+    {
+        console.log(fullname)//RefernceError: Cannot access 'fullname' before initial
+        let fullname="Nguyen Van A"
+    }
+    -Đối với thằng let và const thì nó vẫn được hoisted lên nhưng nó không tạo giá trị mặc định và được đưa vào "Temporal Dead Zone"(vùng tạm thời không truy cập được)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Strict Mode là chế độ nghiêm ngặc giúp code an toàn hơn khi bật lên sẽ tránh được lỗi
+    //VD1
+    fullName ='Nguyen Van A'
+    function testFunc(){
+        age =18 // Tạo ra biến age ở phạm vi global
+    }
+    testFunc()
+    -Thì ở vd này đã quên khai báo các từ khóa var,let,const trước tên biến nhưng nó vẫn không có lỗi nhưng ở trường hợp này biến age sẽ thuộc phạm vi global 
+    -Khi đó Strict Mode sẽ được sử dụng tới để báo lỗi
+Cách sử dụng
+    -Để sử dụng Strict Mode thì ta thêm "use strict"; vào đầu file js
+    -Để dùng là thêm "use strict"; vào đầu ngày sau thẻ mở script
+    -Để sử dụng riêng cho hàm thi ta thêm vào đầu hàm
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Primitve Types & Refernce Types
+1.Primitve Type- Value Type(Kiểu tham trị)
+    -String
+    -Number
+    -Boolean
+    -BigInt
+    -Symbol
+    -undefined
+    -null
+2.Refernce Types (kiểu tham chiếu) là nó trỏ tới 
+    -Object
+    -Array
+    -Function
+Data types with function
+    -Value types
+    -Refernce types
