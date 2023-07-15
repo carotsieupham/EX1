@@ -5,20 +5,19 @@ string sv::get_name()
 }
 float sv::TinhDiemQT() {
 	if (bv <= 5) {
-		return (10 - bv * 2)*0.2 + DiemTH * 0.3 + DiemGK * 0.5;
+		return (10 - bv * 2) * 0.2 + DiemTH * 0.3 + DiemGK * 0.5;
 	}
 	else
 		return 0;
 }
 void sv::hienthiTTSV()
 {
-	cout << setw(30) << left << ht << "\t";
-	cout << setw(12) << left << mssv << "\t";
-	cout << setw(15) << left << bv << "\t";
-	cout << setw(15) << left << DiemTH << "\t";
-	cout << setw(15) << left << DiemGK << "\t";
-	cout << setw(15) << left << TinhDiemQT();
-	cout << endl;
+	cout << setw(28) << left << ht << "\t";
+	cout <<"|"<< setw(10) << left << mssv << "\t";
+	cout << "|" << setw(10) << left << bv << "\t";
+	cout << "|" << setw(10) << left << DiemTH << "\t";
+	cout << "|" << setw(10) << left << DiemGK << "\t";
+	cout <<  "|" <<setw(15) << left << TinhDiemQT();
 }
 void sv::ghifile(ofstream& ofs)
 {
@@ -35,12 +34,12 @@ void sv::docfile(ifstream& ifs)
 	ifs >> bv;
 	ifs >> DiemTH;
 	ifs >> DiemGK;
+	ifs.ignore();
 }
-
 istream& operator>>(istream& is, sv& sv) {
 	cin.ignore();
-	cout << "Nhap ma so sinh vien: "; getline(is, sv.mssv);
 	cout << "Nhap ho ten: "; getline(is, sv.ht);
+	cout << "Nhap ma so sinh vien: "; getline(is, sv.mssv);
 	cout << "Nhap so buoi vang: "; is >> sv.bv;
 	cout << "Nhap diem thuc hanh: "; is >> sv.DiemTH;
 	cout << "Nhap diem giua ki: "; is >> sv.DiemGK;

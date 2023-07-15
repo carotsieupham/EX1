@@ -19,7 +19,6 @@ int main()
 	m.add_item("In danh sach sinh vien trung ten");
 	m.add_item("Luu file");
 	m.add_item("Doc file");
-
     while (true) {
 
 		switch (m.choose())

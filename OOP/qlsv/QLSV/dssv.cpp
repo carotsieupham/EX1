@@ -2,12 +2,15 @@
 
 void dssv::create()
 {
+	system("cls");
 	dssv.clear();
 	cout << "Danh sach duoc tao thanh cong!" << endl;
+	system("pause");
 }
 
 void dssv::add()
 {
+	system("cls");
 	int quantity;
 	sv* svien = new sv();
 	cout << "So luong sinh vien :";
@@ -15,53 +18,70 @@ void dssv::add()
 	for (int i = 0; i < quantity; i++)
 	{
 		cout << "Nhap sinh vien thu " << i + 1 << ":" << endl;
-		cin >> *svien ;
+		cin >> *svien;
 		dssv.push_back(*svien);
 	}
+	system("pause");
+
 }
 
 void dssv::print()
 {
-	cout << "Danh sach sinh vien " << endl;
-	cout << setw(30) << left << "Ho ten" << "\t" << setw(12) << left << "Ma sinh vien" << "\t" << setw(4) << left << "Buoi vang" << "\t" << setw(4) << left << "Diem thuc hanh" << "\t" << setw(4) << left << "Diem giua ki" << "\t" << setw(4) << left << "Diem qua trinh" << endl;
+	system("cls");
+	cout <<  "Danh sach sinh vien " << endl;
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	cout << "|"<<setw(28) << left << "Ho ten" << "\t" << "|" << setw(10) << left << "Ma sinh vien" << "\t" << "|" << setw(4) << left << "Buoi vang" << "\t" << "|" << setw(4) << left << "Diem thuc hanh" << "\t" << "|" << setw(4) << left << "Diem giua ki" << "\t" << "|" << setw(4) << left << "Diem qua trinh" << "\t" << "|" << endl;
 	for (int i = 0; i < dssv.size(); i++)
 	{
-		dssv[i].hienthiTTSV();
+		cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 	}
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	system("pause");
 }
 
 void dssv::danhSachSvDuDk()
 {
-	cout << "Danh sach sinh vien du dieu kien" << endl;
-	cout << setw(30) << left << "Ho ten" << "\t" << setw(12) << left << "Ma sinh vien" << "\t" << setw(4) << left << "Buoi vang" << "\t" << setw(4) << left << "Diem thuc hanh" << "\t" << setw(4) << left << "Diem giua ki" << "\t" << setw(4) << left << "Diem qua trinh" << endl;
+	system("cls");
+	cout   << "Danh sach sinh vien du dieu kien"  << endl;
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	cout << "|" << setw(28) << left << "Ho ten" << "\t" << "|" << setw(10) << left << "Ma sinh vien" << "\t" << "|" << setw(4) << left << "Buoi vang" << "\t" << "|" << setw(4) << left << "Diem thuc hanh" << "\t" << "|" << setw(4) << left << "Diem giua ki" << "\t" << "|" << setw(4) << left << "Diem qua trinh" << "\t" << "|" << endl;
 	for (int i = 0;i < dssv.size();i++)
 	{
 		if (dssv[i].TinhDiemQT() >= 3) {
-			dssv[i].hienthiTTSV();
+			cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 		}
 	}
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	system("pause");
+
 }
 
 void dssv::danhSachSvHoNguyen()
 {
+	system("cls");
 	int count = 0;
 	cout << "Danh sach sinh vien ho Nguyen" << endl;
-	cout << setw(30) << left << "Ho ten" << "\t" << setw(12) << left << "Ma sinh vien" << "\t" << setw(4) << left << "Buoi vang" << "\t" << setw(4) << left << "Diem thuc hanh" << "\t" << setw(4) << left << "Diem giua ki" << "\t" << setw(4) << left << "Diem qua trinh" << endl;
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	cout << "|" << setw(28) << left << "Ho ten" << "\t" << "|" << setw(10) << left << "Ma sinh vien" << "\t" << "|" << setw(4) << left << "Buoi vang" << "\t" << "|" << setw(4) << left << "Diem thuc hanh" << "\t" << "|" << setw(4) << left << "Diem giua ki" << "\t" << "|" << setw(4) << left << "Diem qua trinh" << "\t" << "|" << endl;
 	for (int i = 0;i < dssv.size();i++)
 	{
 		if ((dssv[i].get_name()).find("Nguyen") != string::npos || (dssv[i].get_name()).find("nguyen") != string::npos) {
-			dssv[i].hienthiTTSV();
+			cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 			count++;
 		}
 	}
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
 	if (count == 0) cout << "Khong co sinh vien nao mang ho Nguyen" << endl;
+	system("pause");
 }
 
 void dssv::danhSachSvCungTen()
 {
-	int tmp=-1,count=0;
-	cout << "Danh sach sinh vien trung ten" << endl;
-	cout << setw(30) << left << "Ho ten" << "\t" << setw(12) << left << "Ma sinh vien" << "\t" << setw(4) << left << "Buoi vang" << "\t" << setw(4) << left << "Diem thuc hanh" << "\t" << setw(4) << left << "Diem giua ki" << "\t" << setw(4) << left << "Diem qua trinh" << endl;
+	system("cls");
+	int tmp = -1, count = 0;
+	cout <<  "Danh sach sinh vien trung ten" <<  endl;
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	cout << "|" << setw(28) << left << "Ho ten" << "\t" << "|" << setw(10) << left << "Ma sinh vien" << "\t" << "|" << setw(4) << left << "Buoi vang" << "\t" << "|" << setw(4) << left << "Diem thuc hanh" << "\t" << "|" << setw(4) << left << "Diem giua ki" << "\t" << "|" << setw(4) << left << "Diem qua trinh" << "\t" << "|" << endl;
 	for (int i = 0; i < dssv.size(); i++) {
 		for (int j = i + 1; j < dssv.size(); j++) {
 			if (trungten(dssv[i], dssv[j])) {
@@ -79,7 +99,9 @@ void dssv::danhSachSvCungTen()
 			}
 		}
 	}
-	if (count == 0) cout << "Trong" << endl;
+	if (count == 0) cout <<"|"<< "Trong" << endl;
+	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	system("pause");
 }
 
 void dssv::savefile(string filename)
@@ -96,19 +118,21 @@ void dssv::savefile(string filename)
 	}
 	cout << "Luu file thanh cong" << endl;
 	ofs.close();
+	system("pause");
 }
 
 void dssv::readfile(string filename)
 {
 	system("cls");
+	dssv.clear(); 
 	ifstream ifs(filename);
 	if (!ifs.is_open()) {
-		cout << "Khong mo duoc file" << endl;return;
+		cout << "Khong mo duoc file" << endl;
+		return;
 	}
 	int n;
 	ifs >> n;
-	string skipendl;
-	getline(ifs, skipendl);
+	ifs.ignore();
 	for (int i = 0; i < n; i++)
 	{
 		sv* svien = new sv();
@@ -117,5 +141,5 @@ void dssv::readfile(string filename)
 	}
 	cout << "Doc file thanh cong" << endl;
 	ifs.close();
-
+	system("pause");
 }
