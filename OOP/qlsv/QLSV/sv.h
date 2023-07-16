@@ -10,12 +10,14 @@ class sv
 {
 private:
 	string mssv;
-	string ht;
+	string hodem;
+	string ten;
 	int bv;
 	float DiemTH;
 	float DiemGK;
 
 public:
+	string get_familyname();
 	string get_name();
 	friend istream& operator>>(istream& is, sv& sv);
 	friend ostream& operator<<(ostream& os, sv& sv);

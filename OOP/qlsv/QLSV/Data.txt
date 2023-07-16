@@ -1,16 +1,19 @@
 3
 2251150039
-Tran Minh Tri
-1
-8
-8
-2251120040
-nguyen trinh trung du
+Tran Min Tri
+Tri
 1
 9
 9
-2231120049
-nguyen thanh dat
-4
+2
+Nguyen Trung
+Du
 9
 9
+2
+1
+Tran Minh
+Du
+10
+10
+1

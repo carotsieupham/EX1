@@ -1,4 +1,4 @@
-#include "dssv.h"
+﻿#include "dssv.h"
 
 void dssv::create()
 {
@@ -65,7 +65,7 @@ void dssv::danhSachSvHoNguyen()
 	cout << "|" << setw(28) << left << "Ho ten" << "\t" << "|" << setw(10) << left << "Ma sinh vien" << "\t" << "|" << setw(4) << left << "Buoi vang" << "\t" << "|" << setw(4) << left << "Diem thuc hanh" << "\t" << "|" << setw(4) << left << "Diem giua ki" << "\t" << "|" << setw(4) << left << "Diem qua trinh" << "\t" << "|" << endl;
 	for (int i = 0;i < dssv.size();i++)
 	{
-		if ((dssv[i].get_name()).find("Nguyen") != string::npos || (dssv[i].get_name()).find("nguyen") != string::npos) {
+		if ((dssv[i].get_familyname()).find("Nguyen") != string::npos || (dssv[i].get_familyname()).find("nguyen") != string::npos) {
 			cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 			count++;
 		}
@@ -86,21 +86,21 @@ void dssv::danhSachSvCungTen()
 		for (int j = i + 1; j < dssv.size(); j++) {
 			if (trungten(dssv[i], dssv[j])) {
 				if (tmp == i) {
-					dssv[j].hienthiTTSV();
+					cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 					count++;
 				}
 				else
 				{
-					dssv[i].hienthiTTSV();
-					dssv[j].hienthiTTSV();
+					cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
+					cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
 					count++;
 					tmp = i;
 				}
 			}
 		}
 	}
-	if (count == 0) cout <<"|"<< "Trong" << endl;
 	cout << "+-------------------------------+---------------+---------------+---------------+---------------+---------------+" << endl;
+	if (count == 0) cout <<  "Trong" << endl;
 	system("pause");
 }
 
