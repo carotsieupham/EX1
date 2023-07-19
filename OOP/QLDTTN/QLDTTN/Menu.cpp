@@ -7,7 +7,6 @@ void Menu::add_item(string item)
 
 void Menu::print_menu()
 {
-	system("cls");
 	for (int i = 0; i < menu.size(); i++)
 	{
 		cout << i  << "." << menu[i] << endl;

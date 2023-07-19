@@ -1,7 +1,2 @@
-﻿  CauhoiTN.cpp
-D:\EX\OOP\QLDTTN\QLDTTN\CauhoiTN.cpp(34,2): error C3861: 'Textcolor': identifier not found
-  DethiTN.cpp
-D:\EX\OOP\QLDTTN\QLDTTN\DethiTN.cpp(32,4): error C3861: 'Textcolor': identifier not found
-D:\EX\OOP\QLDTTN\QLDTTN\DethiTN.cpp(102,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
+﻿  Menu.cpp
+  QLDTTN.vcxproj -> D:\EX\OOP\QLDTTN\x64\Debug\QLDTTN.exe

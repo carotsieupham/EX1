@@ -92,7 +92,7 @@ void dssv::danhSachSvCungTen()
 				else
 				{
 					cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
-					cout << "|";dssv[i].hienthiTTSV();cout << "|" << endl;
+					cout << "|";dssv[j].hienthiTTSV();cout << "|" << endl;
 					count++;
 					tmp = i;
 				}

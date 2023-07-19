@@ -5,7 +5,7 @@ int main() {
 	DethiTN dethi;
 	Menu menu;
 	string filename;
-	cout << setw(50) << "---Chuong trinh quan ly de thi---" << endl;
+	cout << setw(50) << "---Chuong trinh quan ly de thi---TranMinhTri---2251150039" << endl;
 	menu.add_item("Thoat chuong trinh");
 	menu.add_item("Tao de thi trac nghiem moi");
 	menu.add_item("Them cau hoi");
