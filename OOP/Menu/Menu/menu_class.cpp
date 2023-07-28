@@ -1,7 +1,7 @@
 #include "menu.h"
 menu& menu::operator<<(const string& option)
 {
-	dsLuachon.push_back(option);
+    cout << *this;
 	return *this;
 }
 
@@ -27,4 +27,9 @@ int menu::chon()
             cout << "Chon sai, moi chon lai!!!\n";
     } while (ch < 0 || ch >= dsLuachon.size());//Lap lai neu user chon sai
     return ch;
+}
+ostream& operator<<(ostream& os, menu a)
+{
+    os << a;
+    return os;
 }

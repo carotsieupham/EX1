@@ -1,5 +1,7 @@
 #pragma once
 #include <iostream>
+#include <fstream>
+#include <algorithm>
 using namespace std;
 class point
 {
@@ -12,5 +14,9 @@ public:
 	float getY();
 	void setX(float x);
 	void setY(float y);
+	float kcdengoctoado();
+	void docfile(ifstream& ifs);
+	bool operator<(point& b);
+	friend ostream& operator<<(ostream& os, point p);
 };
 
