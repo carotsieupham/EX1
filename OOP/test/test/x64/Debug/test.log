@@ -1,1 +1,4 @@
-﻿  test.vcxproj -> D:\EX\OOP\test\x64\Debug\test.exe
+﻿  test.cpp
+D:\EX\OOP\test\test\test.cpp(10,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\EX\OOP\test\test\test.cpp(10,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  test.vcxproj -> D:\EX\OOP\test\x64\Debug\test.exe

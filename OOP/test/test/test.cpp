@@ -1,23 +1,18 @@
+#include <iostream> 
+#include <windows.h>
 
-#include <iostream>
-#include "CRetangle.h"
 using namespace std;
-int main()
-{
-    CRetangle rect1, *rect2;
-    rect1.setHeight(3);
-    rect1.setWidth(4);
-    cout << "Height1: " << rect1.getHeight() << endl;
-    cout << "Width1: " << rect1.getWidth() << endl;
-    cout << "S1: " << rect1.area() << endl;
-    
-    rect2 = new CRetangle();
-    rect2->setHeight(5);
-    rect2->setWidth(4);
-    cout << "Height2: " << rect2->getHeight() << endl;
-    cout << "Width2: " << rect2->getWidth() << endl;
-    cout << "S2: " << rect2->area() << endl;
 
+void gotoxy(int x, int y)//x,y là t?a di?m x,y trên màn hình
+{
+    //Các hàm này là hàm thao tác API v?i windows b?n c? coppy thôi không c?n ph?i hi?u quá sâu.
+    HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
+    COORD a = { x, y };
+    SetConsoleCursorPosition(h, a);
 }
 
-
+int main()
+{
+  
+    return 0;
+}

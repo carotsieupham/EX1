@@ -1,0 +1,13 @@
+﻿  dssv.cpp
+D:\EX\OOP\qlsvnew\qlsvnew\dssv.cpp(34,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\EX\OOP\qlsvnew\qlsvnew\dssv.cpp(42,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\EX\OOP\qlsvnew\qlsvnew\dssv.cpp(89,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\EX\OOP\qlsvnew\qlsvnew\dssv.cpp(104,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\EX\OOP\qlsvnew\qlsvnew\dssv.cpp(106,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  sv.cpp
+D:\EX\OOP\qlsvnew\qlsvnew\sv.cpp(11,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\EX\OOP\qlsvnew\qlsvnew\sv.cpp(114,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\EX\OOP\qlsvnew\qlsvnew\sv.cpp(114,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  qlsvnew.vcxproj -> D:\EX\OOP\qlsvnew\x64\Debug\qlsvnew.exe

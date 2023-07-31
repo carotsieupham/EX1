@@ -1,0 +1,37 @@
+6
+2251150039
+Tran Minh 
+Tri
+1
+9
+9
+2231120040
+Nguyen Trinh Trung
+Du
+2
+8
+8
+2251150040
+Nguyen Trong
+Tri
+5
+7
+7
+2251254444
+Ho Tue
+Tri
+6
+5
+5
+2231243333
+Tran Tue
+An
+2
+5
+5
+2131232222
+Tran Tue
+Du
+1
+6
+7
