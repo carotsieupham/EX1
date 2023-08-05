@@ -1,5 +1,10 @@
 #include "SalariedEmployee.h"
 
+SalariedEmployee::SalariedEmployee():Employee()
+{
+    weeksalary = static_cast<double>(rand() % 10000 + 1000);
+}
+
 SalariedEmployee::SalariedEmployee(const string& first, const string& last, const string& ssn, double salary):Employee(first, last, ssn) {
     setweeklysalary(salary);
 }

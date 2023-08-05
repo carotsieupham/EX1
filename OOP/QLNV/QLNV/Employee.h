@@ -8,6 +8,8 @@ protected:
 	string firstname, lastname;
 	string Ssn;
 public:
+	friend string generateRandomString(int length);
+	Employee();
 	Employee(const string&, const string&, const string&);
 	void setFirstname(const string&);
 	string getFirstname();

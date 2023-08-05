@@ -1,5 +1,12 @@
 #include "Employee.h"
 
+Employee::Employee()
+{
+	firstname = generateRandomString(2);
+	lastname = generateRandomString(2);
+	Ssn= generateRandomString(9)
+}
+
 Employee::Employee(const string&first, const string&last, const string&ssn)
 {
 	this->firstname = first;
@@ -41,4 +48,15 @@ void Employee::print()
 {
 	cout << getFirstname() << ' ' << getLastname()<<endl;
 	cout << "Social security number:" << getSsn();
+}
+string generateRandomString(int length) {
+
+	static const char characters[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	string result;
+
+	for (int i = 0; i < length; ++i) {
+		result += characters[rand() % (sizeof(characters) - 1)];
+	}
+
+	return result;
 }

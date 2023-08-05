@@ -1,2 +1,10 @@
-﻿  main.cpp
-  QLNV.vcxproj -> D:\EX\OOP\QLNV\x64\Debug\QLNV.exe
+﻿  BasePlusCommission.cpp
+  Commission.cpp
+  Employee.cpp
+D:\EX\OOP\QLNV\QLNV\Employee.cpp(5,14): error C3861: 'generateRandomString': identifier not found
+D:\EX\OOP\QLNV\QLNV\Employee.cpp(6,13): error C3861: 'generateRandomString': identifier not found
+D:\EX\OOP\QLNV\QLNV\Employee.cpp(7,7): error C3861: 'generateRandomString': identifier not found
+D:\EX\OOP\QLNV\QLNV\Employee.cpp(8,1): error C2143: syntax error: missing ';' before '}'
+  SalariedEmployee.cpp
+  main.cpp
+  Generating Code...

@@ -6,6 +6,7 @@ private:
 	double grossSales;
 	double commissionRate;
 public:
+	Commission();
 	Commission(const string&, const string&, const string&, double = 0.0, double = 0.0);
 	void setgrossSales(double);
 	double getgrossSales();

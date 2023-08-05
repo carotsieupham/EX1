@@ -5,6 +5,7 @@ class SalariedEmployee:public Employee
 private:
 	double weeksalary;
 public:
+	SalariedEmployee();
 	SalariedEmployee(const string&, const string&, const string&,  double = 0.0);
 	void setweeklysalary(double ws);
 	double getweeksalary();

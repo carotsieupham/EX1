@@ -5,6 +5,7 @@ class BasePlusCommission:public Commission
 private:
 	double basesalary;
 public:
+	BasePlusCommission();
 	BasePlusCommission(const string&, const string&, const string&, double = 0.0, double = 0.0, double = 0.0);
 	void setbasesalary(double);
 	double getbasesalary();

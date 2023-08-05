@@ -1,5 +1,10 @@
 #include "BasePlusCommission.h"
 
+BasePlusCommission::BasePlusCommission():Commission()
+{
+	basesalary = static_cast<double>(rand() % 5000 + 1000);
+}
+
 BasePlusCommission::BasePlusCommission(const string& first, const string& last, const string& ssn, double gsl, double cmr,double bsl):Commission(first,last,ssn,gsl,cmr)
 {
 	setbasesalary(bsl);

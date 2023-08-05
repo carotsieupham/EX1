@@ -1,5 +1,11 @@
 #include "Commission.h"
 
+Commission::Commission():Employee()
+{
+	commissionRate = static_cast<double>(rand()) / RAND_MAX;
+	grossSales = static_cast<double>(rand() % 100000 + 10000);
+}
+
 Commission::Commission(const string& first, const string& last, const string& ssn, double gsl, double cmr):Employee(first,last,ssn)
 {
 	setgrossSales(gsl);
