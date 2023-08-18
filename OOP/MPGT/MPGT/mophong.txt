@@ -1,0 +1,72 @@
+Buoc:1
+Xe 1:Vi Tri 0.3 Km; Toc do: 1.34592
+
+Buoc:2
+Xe 1:Vi Tri 0.703777 Km; Toc do: 0.902305
+Xe 2:Vi Tri 0.3 Km; Toc do: 1.82208
+
+Buoc:3
+Xe 1:Vi Tri 0.974468 Km; Toc do: 1.74063
+Xe 2:Vi Tri 0.846623 Km; Toc do: 2.69523
+Xe 3:Vi Tri 0.3 Km; Toc do: 1.13772
+
+Buoc:4
+Xe 1:Vi Tri 1.49666 Km; Toc do: 2.46469
+Xe 2:Vi Tri 1.65519 Km; Toc do: 3.57828
+Xe 3:Vi Tri 0.641316 Km; Toc do: 0.595724
+Xe 4:Vi Tri 0.3 Km; Toc do: 1.9108
+
+Buoc:5
+Xe 1:Vi Tri 2.23606 Km; Toc do: 2.77982
+Xe 2:Vi Tri 2.72868 Km; Toc do: 4.34452
+Xe 3:Vi Tri 0.820033 Km; Toc do: 0.450618
+Xe 4:Vi Tri 0.873239 Km; Toc do: 2.84713
+Xe 5:Vi Tri 0.3 Km; Toc do: 1.69653
+
+Buoc:6
+Xe 1:Vi Tri 2.72868 Km; Toc do: 4.34452
+Xe 2:Vi Tri 0.955218 Km; Toc do: 0.453866
+Xe 3:Vi Tri 1.72738 Km; Toc do: 2.47658
+Xe 4:Vi Tri 0.808958 Km; Toc do: 0.762869
+Xe 5:Vi Tri 0.3 Km; Toc do: 0.986373
+
+Buoc:7
+Xe 1:Vi Tri 0.955218 Km; Toc do: 0.453866
+Xe 2:Vi Tri 2.47035 Km; Toc do: 2.47828
+Xe 3:Vi Tri 1.03782 Km; Toc do: 1.70709
+Xe 4:Vi Tri 0.595912 Km; Toc do: 1.51355
+Xe 5:Vi Tri 0.3 Km; Toc do: 1.81022
+
+Buoc:8
+Xe 1:Vi Tri 1.09138 Km; Toc do: 1.26427
+Xe 2:Vi Tri 1.03782 Km; Toc do: 1.70709
+Xe 3:Vi Tri 1.04998 Km; Toc do: 2.32503
+Xe 4:Vi Tri 0.843065 Km; Toc do: 2.26539
+Xe 5:Vi Tri 0.3 Km; Toc do: 1.52409
+
+Buoc:9
+Xe 1:Vi Tri 1.47066 Km; Toc do: 0.546474
+Xe 2:Vi Tri 1.54995 Km; Toc do: 1.23596
+Xe 3:Vi Tri 1.74748 Km; Toc do: 2.41605
+Xe 4:Vi Tri 1.52268 Km; Toc do: 2.24127
+Xe 5:Vi Tri 0.757227 Km; Toc do: 0.553954
+Xe 6:Vi Tri 0.3 Km; Toc do: 1.14158
+
+Buoc:10
+Xe 1:Vi Tri 1.6346 Km; Toc do: 1.05278
+Xe 2:Vi Tri 1.92074 Km; Toc do: 1.48049
+Xe 3:Vi Tri 2.4723 Km; Toc do: 2.85457
+Xe 4:Vi Tri 2.19506 Km; Toc do: 1.50819
+Xe 5:Vi Tri 0.923414 Km; Toc do: 1.11184
+Xe 6:Vi Tri 0.642475 Km; Toc do: 2.00968
+Xe 7:Vi Tri 0.3 Km; Toc do: 0.848685
+
+Buoc:11
+Xe 1:Vi Tri 1.95043 Km; Toc do: 0.518876
+Xe 2:Vi Tri 2.36488 Km; Toc do: 0.985708
+Xe 3:Vi Tri 2.19506 Km; Toc do: 1.50819
+Xe 4:Vi Tri 1.25697 Km; Toc do: 0.758114
+Xe 5:Vi Tri 1.24538 Km; Toc do: 2.89733
+Xe 6:Vi Tri 0.554605 Km; Toc do: 1.3875
+Xe 7:Vi Tri 0.3 Km; Toc do: 1.36894
+

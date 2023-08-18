@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\EX\OOP\Pointemplate\Pointemplate\main.cpp(30,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pointemplate.vcxproj -> D:\EX\OOP\Pointemplate\x64\Debug\Pointemplate.exe

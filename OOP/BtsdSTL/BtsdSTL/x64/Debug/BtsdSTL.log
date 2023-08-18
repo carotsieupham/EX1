@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\EX\OOP\BtsdSTL\BtsdSTL\main.cpp(31,10): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\EX\OOP\BtsdSTL\BtsdSTL\main.cpp(31,10): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\EX\OOP\BtsdSTL\BtsdSTL\main.cpp(31,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\EX\OOP\BtsdSTL\BtsdSTL\main.cpp(31,10): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\EX\OOP\BtsdSTL\BtsdSTL\main.cpp(31,10): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+  BtsdSTL.vcxproj -> D:\EX\OOP\BtsdSTL\x64\Debug\BtsdSTL.exe

@@ -1,0 +1,1713 @@
+Buoc:1
+Xe may 1:Vi Tri 0.6 Km; Toc do: 1.96007
+Xe con 1:Vi Tri 0.6 Km; Toc do: 0.402097
+Xe con 1:Vi Tri 0.6 Km; Toc do: 1.08534
+
+Buoc:2
+Xe may 1:Vi Tri 1.77604 Km; Toc do: 1.65478
+Xe may 2:Vi Tri 0.6 Km; Toc do: 0.800684
+Xe con 1:Vi Tri 0.841259 Km; Toc do: 0.252583
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.99947
+Xe con 1:Vi Tri 1.25121 Km; Toc do: 1.99293
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.125343
+
+Buoc:3
+Xe may 1:Vi Tri 2.76891 Km; Toc do: 0.822164
+Xe may 2:Vi Tri 1.08041 Km; Toc do: 1.00697
+Xe may 3:Vi Tri 0.6 Km; Toc do: 1.13863
+Xe con 1:Vi Tri 0.992808 Km; Toc do: 0.554945
+Xe con 2:Vi Tri 1.19968 Km; Toc do: 1.7104
+Xe con 3:Vi Tri 0.6 Km; Toc do: 1.62728
+Xe con 1:Vi Tri 2.44696 Km; Toc do: 2.46545
+Xe con 2:Vi Tri 0.675206 Km; Toc do: 0.813374
+
+Buoc:4
+Xe may 1:Vi Tri 3.26221 Km; Toc do: 0.743341
+Xe may 2:Vi Tri 1.68459 Km; Toc do: 1.8244
+Xe may 3:Vi Tri 1.28318 Km; Toc do: 0.702146
+Xe may 4:Vi Tri 0.6 Km; Toc do: 1.44234
+Xe con 1:Vi Tri 1.32578 Km; Toc do: 1.24446
+Xe con 2:Vi Tri 2.22592 Km; Toc do: 2.06844
+Xe con 3:Vi Tri 1.57637 Km; Toc do: 2.35446
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.02745
+Xe con 1:Vi Tri 3.92623 Km; Toc do: 2.18715
+Xe con 2:Vi Tri 1.16323 Km; Toc do: 0.607635
+
+Buoc:5
+Xe may 1:Vi Tri 3.70821 Km; Toc do: 1.56578
+Xe may 2:Vi Tri 2.77923 Km; Toc do: 1.39812
+Xe may 3:Vi Tri 1.70447 Km; Toc do: 0.644366
+Xe may 4:Vi Tri 1.4654 Km; Toc do: 1.45081
+Xe may 5:Vi Tri 0.6 Km; Toc do: 0.570913
+Xe con 1:Vi Tri 2.07245 Km; Toc do: 1.56687
+Xe con 2:Vi Tri 3.46698 Km; Toc do: 2.23884
+Xe con 3:Vi Tri 2.98904 Km; Toc do: 3.18817
+Xe con 4:Vi Tri 1.21647 Km; Toc do: 1.76629
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.29203
+Xe con 1:Vi Tri 5.23852 Km; Toc do: 2.06815
+Xe con 2:Vi Tri 1.52781 Km; Toc do: 0.674438
+
+Buoc:6
+Xe may 1:Vi Tri 4.64768 Km; Toc do: 1.15037
+Xe may 2:Vi Tri 3.61811 Km; Toc do: 1.14287
+Xe may 3:Vi Tri 2.09108 Km; Toc do: 0.2719
+Xe may 4:Vi Tri 2.33589 Km; Toc do: 0.826087
+Xe may 5:Vi Tri 0.942548 Km; Toc do: 1.43114
+Xe may 6:Vi Tri 0.6 Km; Toc do: 1.6407
+Xe con 1:Vi Tri 3.01258 Km; Toc do: 1.40861
+Xe con 2:Vi Tri 4.81029 Km; Toc do: 2.85541
+Xe con 3:Vi Tri 4.90195 Km; Toc do: 2.44783
+Xe con 4:Vi Tri 2.27624 Km; Toc do: 2.3733
+Xe con 5:Vi Tri 1.37522 Km; Toc do: 0.421433
+Xe con 1:Vi Tri 6.47941 Km; Toc do: 2.46634
+Xe con 2:Vi Tri 1.93247 Km; Toc do: 1.24743
+
+Buoc:7
+Xe may 1:Vi Tri 5.3379 Km; Toc do: 0.673075
+Xe may 2:Vi Tri 4.30383 Km; Toc do: 1.30934
+Xe may 3:Vi Tri 2.25423 Km; Toc do: 0.406424
+Xe may 4:Vi Tri 2.83154 Km; Toc do: 1.03993
+Xe may 5:Vi Tri 1.80123 Km; Toc do: 2.24264
+Xe may 6:Vi Tri 1.58442 Km; Toc do: 1.76423
+Xe may 7:Vi Tri 0.6 Km; Toc do: 1.2536
+Xe con 1:Vi Tri 3.85775 Km; Toc do: 1.13634
+Xe con 2:Vi Tri 6.52353 Km; Toc do: 3.64631
+Xe con 3:Vi Tri 6.37064 Km; Toc do: 1.53849
+Xe con 4:Vi Tri 3.70022 Km; Toc do: 2.22467
+Xe con 5:Vi Tri 1.62808 Km; Toc do: 0.990474
+Xe con 1:Vi Tri 7.95922 Km; Toc do: 1.82978
+Xe con 2:Vi Tri 2.68093 Km; Toc do: 0.726231
+
+Buoc:8
+Xe may 1:Vi Tri 5.74174 Km; Toc do: 0.361589
+Xe may 2:Vi Tri 5.08943 Km; Toc do: 1.46173
+Xe may 3:Vi Tri 2.49808 Km; Toc do: 0.0225236
+Xe may 4:Vi Tri 3.4555 Km; Toc do: 1.89279
+Xe may 5:Vi Tri 3.14682 Km; Toc do: 1.25724
+Xe may 6:Vi Tri 2.64296 Km; Toc do: 0.956607
+Xe may 7:Vi Tri 1.35216 Km; Toc do: 1.90317
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.73381
+Xe con 1:Vi Tri 4.53955 Km; Toc do: 1.47373
+Xe con 2:Vi Tri 8.71131 Km; Toc do: 3.153
+Xe con 3:Vi Tri 7.29374 Km; Toc do: 1.4063
+Xe con 4:Vi Tri 5.03503 Km; Toc do: 2.42464
+Xe con 5:Vi Tri 2.22236 Km; Toc do: 1.23
+Xe con 1:Vi Tri 9.05709 Km; Toc do: 1.11495
+Xe con 2:Vi Tri 3.11667 Km; Toc do: 1.41229
+
+Buoc:9
+Xe may 1:Vi Tri 5.9587 Km; Toc do: 0.503052
+Xe may 2:Vi Tri 5.96646 Km; Toc do: 0.98336
+Xe may 3:Vi Tri 2.51159 Km; Toc do: 0.997797
+Xe may 4:Vi Tri 4.59117 Km; Toc do: 1.3494
+Xe may 5:Vi Tri 3.90117 Km; Toc do: 0.364477
+Xe may 6:Vi Tri 3.21692 Km; Toc do: 1.01961
+Xe may 7:Vi Tri 2.49406 Km; Toc do: 1.37797
+Xe may 8:Vi Tri 1.64029 Km; Toc do: 1.62489
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.355299
+Xe con 1:Vi Tri 5.42379 Km; Toc do: 2.18947
+Xe con 2:Vi Tri 7.29374 Km; Toc do: 1.4063
+Xe con 3:Vi Tri 6.48981 Km; Toc do: 1.90208
+Xe con 4:Vi Tri 2.96036 Km; Toc do: 0.3582
+Xe con 1:Vi Tri 9.72606 Km; Toc do: 1.92362
+Xe con 2:Vi Tri 3.96405 Km; Toc do: 2.35554
+
+Buoc:10
+Xe may 1:Vi Tri 6.26053 Km; Toc do: 0.23106
+Xe may 2:Vi Tri 6.55648 Km; Toc do: 0.817343
+Xe may 3:Vi Tri 3.11027 Km; Toc do: 0.214344
+Xe may 4:Vi Tri 5.40081 Km; Toc do: 0.938718
+Xe may 5:Vi Tri 4.11985 Km; Toc do: 0.746243
+Xe may 6:Vi Tri 3.82869 Km; Toc do: 0.555566
+Xe may 7:Vi Tri 3.32084 Km; Toc do: 2.28942
+Xe may 8:Vi Tri 2.61522 Km; Toc do: 1.80357
+Xe may 9:Vi Tri 0.813179 Km; Toc do: 1.22601
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.429478
+Xe con 1:Vi Tri 6.73747 Km; Toc do: 2.68375
+Xe con 2:Vi Tri 8.13752 Km; Toc do: 2.27066
+Xe con 3:Vi Tri 7.63106 Km; Toc do: 2.64115
+Xe con 4:Vi Tri 3.17528 Km; Toc do: 0.402458
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.1088
+Xe con 1:Vi Tri 3.96405 Km; Toc do: 2.35554
+
+Buoc:11
+Xe may 1:Vi Tri 6.39917 Km; Toc do: 0.0773742
+Xe may 2:Vi Tri 7.04689 Km; Toc do: 0.0404876
+Xe may 3:Vi Tri 3.23888 Km; Toc do: 0.716429
+Xe may 4:Vi Tri 5.96404 Km; Toc do: 1.30504
+Xe may 5:Vi Tri 4.5676 Km; Toc do: 0.30491
+Xe may 6:Vi Tri 4.16203 Km; Toc do: 0.484407
+Xe may 7:Vi Tri 4.6945 Km; Toc do: 2.90154
+Xe may 8:Vi Tri 3.69736 Km; Toc do: 2.70498
+Xe may 9:Vi Tri 1.54879 Km; Toc do: 1.31299
+Xe may 10:Vi Tri 0.857687 Km; Toc do: 0.722415
+Xe con 1:Vi Tri 8.34772 Km; Toc do: 2.78978
+Xe con 2:Vi Tri 9.49992 Km; Toc do: 2.09253
+Xe con 3:Vi Tri 9.21575 Km; Toc do: 2.98334
+Xe con 4:Vi Tri 3.41676 Km; Toc do: 0.0180627
+Xe con 5:Vi Tri 1.26528 Km; Toc do: 1.32831
+Xe con 1:Vi Tri 5.37737 Km; Toc do: 2.22183
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.152779
+
+Buoc:12
+Xe may 1:Vi Tri 6.44559 Km; Toc do: 0.831563
+Xe may 2:Vi Tri 7.07118 Km; Toc do: 0.553441
+Xe may 3:Vi Tri 3.66874 Km; Toc do: 1.25746
+Xe may 4:Vi Tri 6.74707 Km; Toc do: 0.787881
+Xe may 5:Vi Tri 4.75054 Km; Toc do: 0.724814
+Xe may 6:Vi Tri 4.45267 Km; Toc do: 1.47778
+Xe may 7:Vi Tri 6.43542 Km; Toc do: 3.20971
+Xe may 8:Vi Tri 5.32035 Km; Toc do: 3.45465
+Xe may 9:Vi Tri 2.33658 Km; Toc do: 1.27712
+Xe may 10:Vi Tri 1.29114 Km; Toc do: 0.932464
+Xe con 1:Vi Tri 9.49992 Km; Toc do: 2.09253
+Xe con 2:Vi Tri 3.41676 Km; Toc do: 0.0180627
+Xe con 3:Vi Tri 2.06227 Km; Toc do: 0.855111
+Xe con 1:Vi Tri 6.71047 Km; Toc do: 2.36873
+Xe con 2:Vi Tri 0.691667 Km; Toc do: 0.957495
+
+Buoc:13
+Xe may 1:Vi Tri 6.94453 Km; Toc do: 1.23466
+Xe may 2:Vi Tri 7.40324 Km; Toc do: 0.18661
+Xe may 3:Vi Tri 4.42321 Km; Toc do: 0.785321
+Xe may 4:Vi Tri 7.2198 Km; Toc do: 1.19626
+Xe may 5:Vi Tri 5.18543 Km; Toc do: 0.402364
+Xe may 6:Vi Tri 5.33934 Km; Toc do: 1.94147
+Xe may 7:Vi Tri 8.36125 Km; Toc do: 3.53499
+Xe may 8:Vi Tri 7.39314 Km; Toc do: 4.03832
+Xe may 9:Vi Tri 3.10285 Km; Toc do: 0.640427
+Xe may 10:Vi Tri 1.85061 Km; Toc do: 0.621496
+Xe con 1:Vi Tri 3.41676 Km; Toc do: 0.0180627
+Xe con 2:Vi Tri 2.57533 Km; Toc do: 0.127896
+Xe con 3:Vi Tri 0.6 Km; Toc do: 1.70484
+Xe con 1:Vi Tri 8.13171 Km; Toc do: 1.91998
+Xe con 2:Vi Tri 1.26616 Km; Toc do: 1.27706
+
+Buoc:14
+Xe may 1:Vi Tri 7.68532 Km; Toc do: 1.08266
+Xe may 2:Vi Tri 7.51521 Km; Toc do: 0.507616
+Xe may 3:Vi Tri 4.8944 Km; Toc do: 1.16244
+Xe may 4:Vi Tri 7.93755 Km; Toc do: 0.887718
+Xe may 5:Vi Tri 5.42685 Km; Toc do: 0.862706
+Xe may 6:Vi Tri 6.50422 Km; Toc do: 1.69313
+Xe may 7:Vi Tri 7.39314 Km; Toc do: 4.03832
+Xe may 8:Vi Tri 3.48711 Km; Toc do: 1.52923
+Xe may 9:Vi Tri 2.22351 Km; Toc do: 1.61256
+Xe con 1:Vi Tri 3.4276 Km; Toc do: 0.218327
+Xe con 2:Vi Tri 2.65207 Km; Toc do: 0.540971
+Xe con 3:Vi Tri 1.6229 Km; Toc do: 2.07984
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.65717
+Xe con 1:Vi Tri 9.2837 Km; Toc do: 2.41779
+Xe con 2:Vi Tri 2.0324 Km; Toc do: 1.67582
+
+Buoc:15
+Xe may 1:Vi Tri 8.33492 Km; Toc do: 1.59715
+Xe may 2:Vi Tri 7.81978 Km; Toc do: 0.897974
+Xe may 3:Vi Tri 5.59187 Km; Toc do: 1.77348
+Xe may 4:Vi Tri 8.47018 Km; Toc do: 1.44056
+Xe may 5:Vi Tri 5.94447 Km; Toc do: 0.249413
+Xe may 6:Vi Tri 7.5201 Km; Toc do: 0.912223
+Xe may 7:Vi Tri 9.81613 Km; Toc do: 5.00878
+Xe may 8:Vi Tri 4.40465 Km; Toc do: 1.78983
+Xe may 9:Vi Tri 3.19105 Km; Toc do: 1.30265
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.99528
+Xe con 1:Vi Tri 3.55859 Km; Toc do: 0.730333
+Xe con 2:Vi Tri 2.97665 Km; Toc do: 0.836525
+Xe con 3:Vi Tri 2.87081 Km; Toc do: 1.43312
+Xe con 4:Vi Tri 1.5943 Km; Toc do: 2.4763
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.96168
+Xe con 1:Vi Tri 2.0324 Km; Toc do: 1.67582
+
+Buoc:16
+Xe may 1:Vi Tri 9.29321 Km; Toc do: 0.83039
+Xe may 2:Vi Tri 8.35856 Km; Toc do: 0.982303
+Xe may 3:Vi Tri 6.65595 Km; Toc do: 1.10639
+Xe may 4:Vi Tri 9.33452 Km; Toc do: 0.450366
+Xe may 5:Vi Tri 6.09412 Km; Toc do: 0.0845169
+Xe may 6:Vi Tri 8.06743 Km; Toc do: 0.936861
+Xe may 7:Vi Tri 4.40465 Km; Toc do: 1.78983
+Xe may 8:Vi Tri 3.97264 Km; Toc do: 2.00002
+Xe may 9:Vi Tri 1.79717 Km; Toc do: 1.70076
+Xe con 1:Vi Tri 3.99679 Km; Toc do: 0.653157
+Xe con 2:Vi Tri 3.47857 Km; Toc do: 1.29232
+Xe con 3:Vi Tri 3.73068 Km; Toc do: 0.798063
+Xe con 4:Vi Tri 3.08008 Km; Toc do: 2.2328
+Xe con 5:Vi Tri 1.77701 Km; Toc do: 1.27851
+Xe con 1:Vi Tri 3.03789 Km; Toc do: 1.8619
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.440069
+
+Buoc:17
+Xe may 1:Vi Tri 9.79144 Km; Toc do: 1.68392
+Xe may 2:Vi Tri 8.94795 Km; Toc do: 0.415676
+Xe may 3:Vi Tri 7.31978 Km; Toc do: 0.224594
+Xe may 4:Vi Tri 9.60474 Km; Toc do: 0.622975
+Xe may 5:Vi Tri 6.14483 Km; Toc do: 0.16358
+Xe may 6:Vi Tri 8.62955 Km; Toc do: 0.635665
+Xe may 7:Vi Tri 5.47854 Km; Toc do: 1.76061
+Xe may 8:Vi Tri 5.17265 Km; Toc do: 2.90497
+Xe may 9:Vi Tri 2.81763 Km; Toc do: 2.05541
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.093129
+Xe con 1:Vi Tri 4.38869 Km; Toc do: 1.39918
+Xe con 2:Vi Tri 4.25396 Km; Toc do: 0.55556
+Xe con 3:Vi Tri 4.20952 Km; Toc do: 0.915529
+Xe con 4:Vi Tri 4.41976 Km; Toc do: 2.39276
+Xe con 5:Vi Tri 2.54412 Km; Toc do: 1.00543
+Xe con 1:Vi Tri 4.15504 Km; Toc do: 1.89223
+Xe con 2:Vi Tri 0.864041 Km; Toc do: 0.7757
+
+Buoc:18
+Xe may 1:Vi Tri 8.94795 Km; Toc do: 0.415676
+Xe may 2:Vi Tri 7.45454 Km; Toc do: 0.170551
+Xe may 3:Vi Tri 9.97853 Km; Toc do: 0.925731
+Xe may 4:Vi Tri 6.24298 Km; Toc do: 0.645502
+Xe may 5:Vi Tri 9.01095 Km; Toc do: 1.31551
+Xe may 6:Vi Tri 6.53491 Km; Toc do: 2.09307
+Xe may 7:Vi Tri 6.91563 Km; Toc do: 3.61212
+Xe may 8:Vi Tri 4.05087 Km; Toc do: 2.26283
+Xe may 9:Vi Tri 0.655877 Km; Toc do: 0.6806
+Xe con 1:Vi Tri 5.22819 Km; Toc do: 2.05179
+Xe con 2:Vi Tri 4.5873 Km; Toc do: 1.09761
+Xe con 3:Vi Tri 4.75883 Km; Toc do: 1.06439
+Xe con 4:Vi Tri 5.85541 Km; Toc do: 1.74079
+Xe con 5:Vi Tri 3.14737 Km; Toc do: 0.91476
+Xe con 1:Vi Tri 5.29037 Km; Toc do: 2.02559
+Xe con 2:Vi Tri 1.32946 Km; Toc do: 1.04572
+
+Buoc:19
+Xe may 1:Vi Tri 9.19735 Km; Toc do: 0.666631
+Xe may 2:Vi Tri 7.55687 Km; Toc do: 0.0329288
+Xe may 3:Vi Tri 6.24298 Km; Toc do: 0.645502
+Xe may 4:Vi Tri 9.80025 Km; Toc do: 0.31638
+Xe may 5:Vi Tri 7.79075 Km; Toc do: 2.8312
+Xe may 6:Vi Tri 9.08291 Km; Toc do: 3.76525
+Xe may 7:Vi Tri 5.40857 Km; Toc do: 2.62265
+Xe may 8:Vi Tri 1.06424 Km; Toc do: 1.6184
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.861953
+Xe con 1:Vi Tri 6.45927 Km; Toc do: 1.49446
+Xe con 2:Vi Tri 5.24586 Km; Toc do: 0.797946
+Xe con 3:Vi Tri 5.39747 Km; Toc do: 0.111045
+Xe con 4:Vi Tri 6.89989 Km; Toc do: 0.768869
+Xe con 5:Vi Tri 3.69623 Km; Toc do: 0.082378
+Xe con 1:Vi Tri 6.50573 Km; Toc do: 1.667
+Xe con 2:Vi Tri 1.9569 Km; Toc do: 0.434103
+
+Buoc:20
+Xe may 1:Vi Tri 9.59733 Km; Toc do: 1.03002
+Xe may 2:Vi Tri 7.57663 Km; Toc do: 0.24593
+Xe may 3:Vi Tri 6.63028 Km; Toc do: 1.63996
+Xe may 4:Vi Tri 9.99008 Km; Toc do: 0.636714
+Xe may 5:Vi Tri 9.48948 Km; Toc do: 2.98183
+Xe may 6:Vi Tri 5.40857 Km; Toc do: 2.62265
+Xe may 7:Vi Tri 2.03528 Km; Toc do: 2.14498
+Xe may 8:Vi Tri 1.11717 Km; Toc do: 1.04383
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.00338733
+Xe con 1:Vi Tri 7.35595 Km; Toc do: 0.589703
+Xe con 2:Vi Tri 5.72463 Km; Toc do: 1.6944
+Xe con 3:Vi Tri 5.4641 Km; Toc do: 0.95135
+Xe con 4:Vi Tri 7.36121 Km; Toc do: 0.972078
+Xe con 5:Vi Tri 3.74566 Km; Toc do: 0.218002
+Xe con 1:Vi Tri 7.50593 Km; Toc do: 2.66353
+Xe con 2:Vi Tri 2.21736 Km; Toc do: 0.564251
+
+Buoc:21
+Xe may 1:Vi Tri 7.57663 Km; Toc do: 0.24593
+Xe may 2:Vi Tri 7.61426 Km; Toc do: 2.1396
+Xe may 3:Vi Tri 9.48948 Km; Toc do: 2.98183
+Xe may 4:Vi Tri 6.98216 Km; Toc do: 2.73398
+Xe may 5:Vi Tri 3.32227 Km; Toc do: 2.75086
+Xe may 6:Vi Tri 1.74347 Km; Toc do: 2.02258
+Xe may 7:Vi Tri 0.602032 Km; Toc do: 0.262162
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.59406
+Xe con 1:Vi Tri 7.70977 Km; Toc do: 1.10759
+Xe con 2:Vi Tri 6.74127 Km; Toc do: 2.09635
+Xe con 3:Vi Tri 6.03491 Km; Toc do: 1.70781
+Xe con 4:Vi Tri 7.94446 Km; Toc do: 1.78746
+Xe con 5:Vi Tri 3.87646 Km; Toc do: 1.12639
+Xe con 1:Vi Tri 9.10404 Km; Toc do: 1.99882
+Xe con 2:Vi Tri 2.55591 Km; Toc do: 1.42613
+
+Buoc:22
+Xe may 1:Vi Tri 7.72419 Km; Toc do: 0.860778
+Xe may 2:Vi Tri 8.89802 Km; Toc do: 1.5609
+Xe may 3:Vi Tri 6.98216 Km; Toc do: 2.73398
+Xe may 4:Vi Tri 4.97278 Km; Toc do: 3.3956
+Xe may 5:Vi Tri 2.95702 Km; Toc do: 1.46761
+Xe may 6:Vi Tri 0.759329 Km; Toc do: 0.0732348
+Xe may 7:Vi Tri 1.55644 Km; Toc do: 0.628666
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.07161
+Xe con 1:Vi Tri 8.37432 Km; Toc do: 0.396543
+Xe con 2:Vi Tri 7.99908 Km; Toc do: 1.66858
+Xe con 3:Vi Tri 7.05959 Km; Toc do: 1.91031
+Xe con 4:Vi Tri 9.01693 Km; Toc do: 1.69142
+Xe con 5:Vi Tri 4.55229 Km; Toc do: 0.876596
+Xe con 1:Vi Tri 2.55591 Km; Toc do: 1.42613
+
+Buoc:23
+Xe may 1:Vi Tri 8.24065 Km; Toc do: 0.346574
+Xe may 2:Vi Tri 9.83456 Km; Toc do: 1.25095
+Xe may 3:Vi Tri 8.62255 Km; Toc do: 3.70511
+Xe may 4:Vi Tri 7.01014 Km; Toc do: 3.71246
+Xe may 5:Vi Tri 3.83759 Km; Toc do: 0.814035
+Xe may 6:Vi Tri 0.80327 Km; Toc do: 0.350217
+Xe may 7:Vi Tri 1.93363 Km; Toc do: 1.46749
+Xe may 8:Vi Tri 1.24296 Km; Toc do: 1.41254
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.54711
+Xe con 1:Vi Tri 8.61225 Km; Toc do: 1.23861
+Xe con 2:Vi Tri 9.00023 Km; Toc do: 2.24568
+Xe con 3:Vi Tri 8.20578 Km; Toc do: 1.92783
+Xe con 4:Vi Tri 4.55229 Km; Toc do: 0.876596
+Xe con 1:Vi Tri 3.41159 Km; Toc do: 2.16059
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.81682
+
+Buoc:24
+Xe may 1:Vi Tri 8.4486 Km; Toc do: 1.24559
+Xe may 2:Vi Tri 8.62255 Km; Toc do: 3.70511
+Xe may 3:Vi Tri 9.23762 Km; Toc do: 3.80619
+Xe may 4:Vi Tri 4.32601 Km; Toc do: 0.895204
+Xe may 5:Vi Tri 1.0134 Km; Toc do: 1.28376
+Xe may 6:Vi Tri 2.81413 Km; Toc do: 2.39199
+Xe may 7:Vi Tri 2.09048 Km; Toc do: 1.54836
+Xe may 8:Vi Tri 1.52826 Km; Toc do: 1.94446
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.6704
+Xe con 1:Vi Tri 9.35541 Km; Toc do: 1.15227
+Xe con 2:Vi Tri 8.20578 Km; Toc do: 1.92783
+Xe con 3:Vi Tri 5.07825 Km; Toc do: 0.735981
+Xe con 4:Vi Tri 0.6 Km; Toc do: 0.656083
+Xe con 1:Vi Tri 4.70794 Km; Toc do: 2.29212
+Xe con 2:Vi Tri 1.69009 Km; Toc do: 1.00718
+
+Buoc:25
+Xe may 1:Vi Tri 9.19595 Km; Toc do: 2.18588
+Xe may 2:Vi Tri 9.23762 Km; Toc do: 3.80619
+Xe may 3:Vi Tri 4.86313 Km; Toc do: 1.14036
+Xe may 4:Vi Tri 1.78365 Km; Toc do: 0.751041
+Xe may 5:Vi Tri 4.24932 Km; Toc do: 2.11441
+Xe may 6:Vi Tri 3.0195 Km; Toc do: 2.10613
+Xe may 7:Vi Tri 2.69494 Km; Toc do: 2.43919
+Xe may 8:Vi Tri 1.00224 Km; Toc do: 0.204586
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.214442
+Xe con 1:Vi Tri 8.20578 Km; Toc do: 1.92783
+Xe con 2:Vi Tri 5.51984 Km; Toc do: 0.589967
+Xe con 3:Vi Tri 0.99365 Km; Toc do: 0.207663
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.28097
+Xe con 1:Vi Tri 6.08321 Km; Toc do: 1.60789
+Xe con 2:Vi Tri 2.2944 Km; Toc do: 0.433971
+
+Buoc:26
+Xe may 1:Vi Tri 9.23762 Km; Toc do: 3.80619
+Xe may 2:Vi Tri 5.54735 Km; Toc do: 0.295474
+Xe may 3:Vi Tri 2.23428 Km; Toc do: 1.17559
+Xe may 4:Vi Tri 5.51797 Km; Toc do: 1.51508
+Xe may 5:Vi Tri 4.28318 Km; Toc do: 2.3425
+Xe may 6:Vi Tri 4.15846 Km; Toc do: 1.90801
+Xe may 7:Vi Tri 1.12499 Km; Toc do: 0.141579
+Xe may 8:Vi Tri 0.728665 Km; Toc do: 0.363787
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.210371
+Xe con 1:Vi Tri 9.36247 Km; Toc do: 1.43604
+Xe con 2:Vi Tri 5.87382 Km; Toc do: 1.58586
+Xe con 3:Vi Tri 1.11825 Km; Toc do: 0.722723
+Xe con 4:Vi Tri 1.36858 Km; Toc do: 2.22291
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.734833
+Xe con 1:Vi Tri 7.04795 Km; Toc do: 2.03615
+Xe con 2:Vi Tri 2.55478 Km; Toc do: 0.356499
+
+Buoc:27
+Xe may 1:Vi Tri 5.54735 Km; Toc do: 0.295474
+Xe may 2:Vi Tri 2.93964 Km; Toc do: 2.0843
+Xe may 3:Vi Tri 6.42702 Km; Toc do: 2.47147
+Xe may 4:Vi Tri 5.68868 Km; Toc do: 1.37092
+Xe may 5:Vi Tri 5.30326 Km; Toc do: 1.97613
+Xe may 6:Vi Tri 1.20994 Km; Toc do: 0.805589
+Xe may 7:Vi Tri 0.946937 Km; Toc do: 0.311123
+Xe may 8:Vi Tri 0.726222 Km; Toc do: 1.18064
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.926227
+Xe con 1:Vi Tri 5.87382 Km; Toc do: 1.58586
+Xe con 2:Vi Tri 1.55188 Km; Toc do: 0.0713882
+Xe con 3:Vi Tri 2.70233 Km; Toc do: 2.76303
+Xe con 4:Vi Tri 1.0409 Km; Toc do: 0.228435
+Xe con 1:Vi Tri 8.26963 Km; Toc do: 2.8315
+Xe con 2:Vi Tri 2.76868 Km; Toc do: 0.503584
+
+Buoc:28
+Xe may 1:Vi Tri 5.72463 Km; Toc do: 0.727547
+Xe may 2:Vi Tri 4.19022 Km; Toc do: 1.62307
+Xe may 3:Vi Tri 7.9099 Km; Toc do: 2.34268
+Xe may 4:Vi Tri 6.51123 Km; Toc do: 2.3381
+Xe may 5:Vi Tri 6.48894 Km; Toc do: 1.72724
+Xe may 6:Vi Tri 1.69329 Km; Toc do: 1.66033
+Xe may 7:Vi Tri 1.13361 Km; Toc do: 0.495856
+Xe may 8:Vi Tri 1.4346 Km; Toc do: 1.6625
+Xe may 9:Vi Tri 1.15574 Km; Toc do: 0.036463
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.56603
+Xe con 1:Vi Tri 6.82533 Km; Toc do: 0.857951
+Xe con 2:Vi Tri 1.59471 Km; Toc do: 0.567306
+Xe con 3:Vi Tri 4.36014 Km; Toc do: 3.62236
+Xe con 4:Vi Tri 1.17796 Km; Toc do: 0.401538
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.0604281
+Xe con 1:Vi Tri 9.96854 Km; Toc do: 2.06758
+Xe con 2:Vi Tri 3.07083 Km; Toc do: 1.37361
+
+Buoc:29
+Xe may 1:Vi Tri 6.16116 Km; Toc do: 1.46685
+Xe may 2:Vi Tri 5.16405 Km; Toc do: 1.62233
+Xe may 3:Vi Tri 9.31551 Km; Toc do: 1.72395
+Xe may 4:Vi Tri 7.91409 Km; Toc do: 2.82239
+Xe may 5:Vi Tri 7.52528 Km; Toc do: 1.91265
+Xe may 6:Vi Tri 2.68949 Km; Toc do: 1.69037
+Xe may 7:Vi Tri 1.43112 Km; Toc do: 0.853903
+Xe may 8:Vi Tri 2.43211 Km; Toc do: 1.822
+Xe may 9:Vi Tri 1.17761 Km; Toc do: 0.230362
+Xe may 10:Vi Tri 1.53962 Km; Toc do: 1.18914
+Xe con 1:Vi Tri 7.3401 Km; Toc do: 0.820859
+Xe con 2:Vi Tri 1.9351 Km; Toc do: 0.00833178
+Xe con 3:Vi Tri 6.53356 Km; Toc do: 4.27233
+Xe con 4:Vi Tri 1.41888 Km; Toc do: 1.30952
+Xe con 5:Vi Tri 0.636257 Km; Toc do: 0.84926
+Xe con 1:Vi Tri 3.07083 Km; Toc do: 1.37361
+
+Buoc:30
+Xe may 1:Vi Tri 7.04127 Km; Toc do: 0.981101
+Xe may 2:Vi Tri 6.13745 Km; Toc do: 1.19028
+Xe may 3:Vi Tri 7.91409 Km; Toc do: 2.82239
+Xe may 4:Vi Tri 8.67287 Km; Toc do: 2.03953
+Xe may 5:Vi Tri 3.70371 Km; Toc do: 1.68944
+Xe may 6:Vi Tri 1.94347 Km; Toc do: 1.26065
+Xe may 7:Vi Tri 3.5253 Km; Toc do: 2.0463
+Xe may 8:Vi Tri 1.31583 Km; Toc do: 0.22731
+Xe may 9:Vi Tri 2.2531 Km; Toc do: 0.685359
+Xe con 1:Vi Tri 7.83262 Km; Toc do: 0.00770974
+Xe con 2:Vi Tri 1.9401 Km; Toc do: 0.241809
+Xe con 3:Vi Tri 9.09695 Km; Toc do: 3.98503
+Xe con 4:Vi Tri 2.2046 Km; Toc do: 0.712957
+Xe con 5:Vi Tri 1.14581 Km; Toc do: 1.27262
+Xe con 1:Vi Tri 3.895 Km; Toc do: 2.32549
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.15813
+
+Buoc:31
+Xe may 1:Vi Tri 7.62993 Km; Toc do: 0.993581
+Xe may 2:Vi Tri 6.85162 Km; Toc do: 1.70647
+Xe may 3:Vi Tri 9.60752 Km; Toc do: 2.40148
+Xe may 4:Vi Tri 9.89659 Km; Toc do: 2.36386
+Xe may 5:Vi Tri 4.71738 Km; Toc do: 1.11127
+Xe may 6:Vi Tri 2.69985 Km; Toc do: 0.428706
+Xe may 7:Vi Tri 4.75308 Km; Toc do: 1.52363
+Xe may 8:Vi Tri 1.45222 Km; Toc do: 0.0410319
+Xe may 9:Vi Tri 2.66432 Km; Toc do: 0.635909
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.853407
+Xe con 1:Vi Tri 7.83724 Km; Toc do: 0.0137992
+Xe con 2:Vi Tri 2.08518 Km; Toc do: 0.972424
+Xe con 3:Vi Tri 2.2046 Km; Toc do: 0.712957
+Xe con 4:Vi Tri 1.90938 Km; Toc do: 1.07886
+Xe con 1:Vi Tri 5.2903 Km; Toc do: 2.01992
+Xe con 2:Vi Tri 1.29488 Km; Toc do: 2.06576
+
+Buoc:32
+Xe may 1:Vi Tri 8.22608 Km; Toc do: 0.847472
+Xe may 2:Vi Tri 7.8755 Km; Toc do: 2.36633
+Xe may 3:Vi Tri 9.89659 Km; Toc do: 2.36386
+Xe may 4:Vi Tri 5.38414 Km; Toc do: 1.41992
+Xe may 5:Vi Tri 2.95708 Km; Toc do: 0.157804
+Xe may 6:Vi Tri 5.66726 Km; Toc do: 2.30039
+Xe may 7:Vi Tri 1.47684 Km; Toc do: 0.529831
+Xe may 8:Vi Tri 3.04586 Km; Toc do: 1.39458
+Xe may 9:Vi Tri 1.11204 Km; Toc do: 1.80941
+Xe con 1:Vi Tri 7.84552 Km; Toc do: 0.816412
+Xe con 2:Vi Tri 2.66864 Km; Toc do: 1.95781
+Xe con 3:Vi Tri 2.63237 Km; Toc do: 1.38577
+Xe con 4:Vi Tri 2.5567 Km; Toc do: 0.427366
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.32417
+Xe con 1:Vi Tri 6.50225 Km; Toc do: 2.34724
+Xe con 2:Vi Tri 2.53433 Km; Toc do: 2.46488
+
+Buoc:33
+Xe may 1:Vi Tri 8.73456 Km; Toc do: 0.375947
+Xe may 2:Vi Tri 9.2953 Km; Toc do: 3.29811
+Xe may 3:Vi Tri 5.38414 Km; Toc do: 1.41992
+Xe may 4:Vi Tri 3.05176 Km; Toc do: 0.752106
+Xe may 5:Vi Tri 7.0475 Km; Toc do: 2.10846
+Xe may 6:Vi Tri 1.79473 Km; Toc do: 1.37577
+Xe may 7:Vi Tri 3.88261 Km; Toc do: 2.11962
+Xe may 8:Vi Tri 2.19769 Km; Toc do: 1.45438
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.145208
+Xe con 1:Vi Tri 8.33537 Km; Toc do: 0.472414
+Xe con 2:Vi Tri 3.84333 Km; Toc do: 2.67399
+Xe con 3:Vi Tri 3.46383 Km; Toc do: 1.06727
+Xe con 4:Vi Tri 2.81312 Km; Toc do: 0.265961
+Xe con 5:Vi Tri 1.3945 Km; Toc do: 0.573044
+Xe con 1:Vi Tri 7.91059 Km; Toc do: 3.14992
+Xe con 2:Vi Tri 4.01326 Km; Toc do: 1.47951
+
+Buoc:34
+Xe may 1:Vi Tri 8.96013 Km; Toc do: 0.830961
+Xe may 2:Vi Tri 5.38414 Km; Toc do: 1.41992
+Xe may 3:Vi Tri 3.50302 Km; Toc do: 0.358032
+Xe may 4:Vi Tri 8.31258 Km; Toc do: 2.80918
+Xe may 5:Vi Tri 2.62019 Km; Toc do: 1.73725
+Xe may 6:Vi Tri 5.15439 Km; Toc do: 1.39786
+Xe may 7:Vi Tri 3.07032 Km; Toc do: 1.01998
+Xe may 8:Vi Tri 0.687125 Km; Toc do: 0.645527
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.6474
+Xe con 1:Vi Tri 8.61882 Km; Toc do: 1.27182
+Xe con 2:Vi Tri 5.44772 Km; Toc do: 2.79502
+Xe con 3:Vi Tri 4.10419 Km; Toc do: 0.871662
+Xe con 4:Vi Tri 2.97269 Km; Toc do: 0.0248901
+Xe con 5:Vi Tri 1.73833 Km; Toc do: 0.142884
+Xe con 1:Vi Tri 9.80054 Km; Toc do: 3.34398
+Xe con 2:Vi Tri 4.90097 Km; Toc do: 1.96832
+
+Buoc:35
+Xe may 1:Vi Tri 9.45871 Km; Toc do: 0.594539
+Xe may 2:Vi Tri 6.23609 Km; Toc do: 0.42429
+Xe may 3:Vi Tri 3.71784 Km; Toc do: 0.350423
+Xe may 4:Vi Tri 9.99808 Km; Toc do: 3.60658
+Xe may 5:Vi Tri 3.66255 Km; Toc do: 1.969
+Xe may 6:Vi Tri 5.9931 Km; Toc do: 1.55442
+Xe may 7:Vi Tri 3.6823 Km; Toc do: 0.172095
+Xe may 8:Vi Tri 1.07444 Km; Toc do: 0.921836
+Xe may 9:Vi Tri 1.58844 Km; Toc do: 2.06445
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.9235
+Xe con 1:Vi Tri 9.38191 Km; Toc do: 2.18028
+Xe con 2:Vi Tri 7.12473 Km; Toc do: 3.75895
+Xe con 3:Vi Tri 4.62719 Km; Toc do: 0.193523
+Xe con 4:Vi Tri 2.98763 Km; Toc do: 0.160689
+Xe con 5:Vi Tri 1.82406 Km; Toc do: 0.77101
+Xe con 1:Vi Tri 4.90097 Km; Toc do: 1.96832
+
+Buoc:36
+Xe may 1:Vi Tri 9.81543 Km; Toc do: 0.960743
+Xe may 2:Vi Tri 6.49067 Km; Toc do: 0.353208
+Xe may 3:Vi Tri 3.9281 Km; Toc do: 0.780471
+Xe may 4:Vi Tri 3.66255 Km; Toc do: 1.969
+Xe may 5:Vi Tri 6.92576 Km; Toc do: 0.696202
+Xe may 6:Vi Tri 3.78556 Km; Toc do: 0.0880744
+Xe may 7:Vi Tri 1.62754 Km; Toc do: 0.4696
+Xe may 8:Vi Tri 2.82711 Km; Toc do: 2.53366
+Xe may 9:Vi Tri 1.7541 Km; Toc do: 1.76145
+Xe con 1:Vi Tri 7.12473 Km; Toc do: 3.75895
+Xe con 2:Vi Tri 4.74331 Km; Toc do: 0.232961
+Xe con 3:Vi Tri 3.08404 Km; Toc do: 0.873114
+Xe con 4:Vi Tri 2.28666 Km; Toc do: 0.453872
+Xe con 1:Vi Tri 6.08196 Km; Toc do: 1.8291
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.74217
+
+Buoc:37
+Xe may 1:Vi Tri 6.49067 Km; Toc do: 0.353208
+Xe may 2:Vi Tri 4.39638 Km; Toc do: 0.423014
+Xe may 3:Vi Tri 4.84395 Km; Toc do: 1.74222
+Xe may 4:Vi Tri 7.34348 Km; Toc do: 0.978513
+Xe may 5:Vi Tri 3.83841 Km; Toc do: 0.61694
+Xe may 6:Vi Tri 1.9093 Km; Toc do: 0.840359
+Xe may 7:Vi Tri 4.34731 Km; Toc do: 2.19585
+Xe may 8:Vi Tri 2.81097 Km; Toc do: 2.17709
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.629784
+Xe con 1:Vi Tri 9.3801 Km; Toc do: 4.36167
+Xe con 2:Vi Tri 4.88308 Km; Toc do: 0.62171
+Xe con 3:Vi Tri 3.60791 Km; Toc do: 1.56416
+Xe con 4:Vi Tri 2.55899 Km; Toc do: 1.36298
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.423728
+Xe con 1:Vi Tri 7.17942 Km; Toc do: 1.26654
+Xe con 2:Vi Tri 1.6453 Km; Toc do: 2.52936
+
+Buoc:38
+Xe may 1:Vi Tri 6.70259 Km; Toc do: 1.09036
+Xe may 2:Vi Tri 4.65019 Km; Toc do: 0.739837
+Xe may 3:Vi Tri 5.88928 Km; Toc do: 2.70744
+Xe may 4:Vi Tri 7.93059 Km; Toc do: 1.50252
+Xe may 5:Vi Tri 4.20857 Km; Toc do: 1.29649
+Xe may 6:Vi Tri 2.41352 Km; Toc do: 1.62556
+Xe may 7:Vi Tri 5.66482 Km; Toc do: 1.87612
+Xe may 8:Vi Tri 4.11723 Km; Toc do: 2.32591
+Xe may 9:Vi Tri 0.97787 Km; Toc do: 1.26794
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.62899
+Xe con 1:Vi Tri 4.88308 Km; Toc do: 0.62171
+Xe con 2:Vi Tri 4.54641 Km; Toc do: 1.29409
+Xe con 3:Vi Tri 3.37677 Km; Toc do: 1.74249
+Xe con 4:Vi Tri 0.854237 Km; Toc do: 1.26516
+Xe con 1:Vi Tri 7.93934 Km; Toc do: 0.62996
+Xe con 2:Vi Tri 3.16292 Km; Toc do: 1.67776
+
+Buoc:39
+Xe may 1:Vi Tri 7.35681 Km; Toc do: 0.343163
+Xe may 2:Vi Tri 5.09409 Km; Toc do: 1.30532
+Xe may 3:Vi Tri 7.51375 Km; Toc do: 3.45161
+Xe may 4:Vi Tri 8.8321 Km; Toc do: 1.93158
+Xe may 5:Vi Tri 4.98646 Km; Toc do: 1.40234
+Xe may 6:Vi Tri 3.38885 Km; Toc do: 2.29638
+Xe may 7:Vi Tri 6.7905 Km; Toc do: 1.67694
+Xe may 8:Vi Tri 5.51277 Km; Toc do: 1.40953
+Xe may 9:Vi Tri 1.73864 Km; Toc do: 1.81237
+Xe may 10:Vi Tri 1.57739 Km; Toc do: 1.86758
+Xe con 1:Vi Tri 5.25611 Km; Toc do: 0.109601
+Xe con 2:Vi Tri 5.32286 Km; Toc do: 1.64413
+Xe con 3:Vi Tri 4.42227 Km; Toc do: 1.88416
+Xe con 4:Vi Tri 1.61333 Km; Toc do: 2.2063
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.196574
+Xe con 1:Vi Tri 8.31732 Km; Toc do: 0.926751
+Xe con 2:Vi Tri 4.16957 Km; Toc do: 2.45969
+
+Buoc:40
+Xe may 1:Vi Tri 7.56271 Km; Toc do: 0.731606
+Xe may 2:Vi Tri 5.87728 Km; Toc do: 1.96957
+Xe may 3:Vi Tri 9.58471 Km; Toc do: 3.02596
+Xe may 4:Vi Tri 9.99104 Km; Toc do: 1.04464
+Xe may 5:Vi Tri 5.82787 Km; Toc do: 1.97769
+Xe may 6:Vi Tri 4.76668 Km; Toc do: 2.65481
+Xe may 7:Vi Tri 7.79666 Km; Toc do: 1.4506
+Xe may 8:Vi Tri 6.35849 Km; Toc do: 1.8577
+Xe may 9:Vi Tri 2.82606 Km; Toc do: 1.7453
+Xe may 10:Vi Tri 2.69795 Km; Toc do: 2.61861
+Xe con 1:Vi Tri 5.32187 Km; Toc do: 0.13366
+Xe con 2:Vi Tri 6.30934 Km; Toc do: 2.39311
+Xe con 3:Vi Tri 5.55276 Km; Toc do: 2.62905
+Xe con 4:Vi Tri 2.93711 Km; Toc do: 2.30366
+Xe con 5:Vi Tri 0.717944 Km; Toc do: 0.714114
+Xe con 1:Vi Tri 8.87337 Km; Toc do: 0.7447
+Xe con 2:Vi Tri 5.64539 Km; Toc do: 3.07897
+
+Buoc:41
+Xe may 1:Vi Tri 8.00167 Km; Toc do: 0.520088
+Xe may 2:Vi Tri 7.05903 Km; Toc do: 2.28571
+Xe may 3:Vi Tri 9.99104 Km; Toc do: 1.04464
+Xe may 4:Vi Tri 7.01448 Km; Toc do: 1.69327
+Xe may 5:Vi Tri 6.35957 Km; Toc do: 2.04217
+Xe may 6:Vi Tri 8.66702 Km; Toc do: 1.13742
+Xe may 7:Vi Tri 7.47312 Km; Toc do: 2.63478
+Xe may 8:Vi Tri 3.87324 Km; Toc do: 2.25267
+Xe may 9:Vi Tri 4.26911 Km; Toc do: 1.89806
+Xe con 1:Vi Tri 5.40206 Km; Toc do: 0.360107
+Xe con 2:Vi Tri 7.7452 Km; Toc do: 2.08145
+Xe con 3:Vi Tri 7.13019 Km; Toc do: 2.94374
+Xe con 4:Vi Tri 4.31931 Km; Toc do: 1.75526
+Xe con 5:Vi Tri 1.14641 Km; Toc do: 0.156558
+Xe con 1:Vi Tri 9.32019 Km; Toc do: 1.41651
+Xe con 2:Vi Tri 7.49277 Km; Toc do: 3.37698
+
+Buoc:42
+Xe may 1:Vi Tri 8.31372 Km; Toc do: 1.27373
+Xe may 2:Vi Tri 8.43045 Km; Toc do: 1.34534
+Xe may 3:Vi Tri 7.01448 Km; Toc do: 1.69327
+Xe may 4:Vi Tri 7.58487 Km; Toc do: 1.51375
+Xe may 5:Vi Tri 9.34946 Km; Toc do: 0.464376
+Xe may 6:Vi Tri 9.05399 Km; Toc do: 2.27897
+Xe may 7:Vi Tri 5.22484 Km; Toc do: 1.99319
+Xe may 8:Vi Tri 5.40795 Km; Toc do: 2.40749
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.615307
+Xe con 1:Vi Tri 5.61813 Km; Toc do: 0.555798
+Xe con 2:Vi Tri 8.99407 Km; Toc do: 2.94216
+Xe con 3:Vi Tri 8.89644 Km; Toc do: 3.29642
+Xe con 4:Vi Tri 5.37246 Km; Toc do: 1.62728
+Xe con 5:Vi Tri 1.24035 Km; Toc do: 0.484792
+Xe con 1:Vi Tri 7.49277 Km; Toc do: 3.37698
+
+Buoc:43
+Xe may 1:Vi Tri 9.07796 Km; Toc do: 0.713539
+Xe may 2:Vi Tri 9.23766 Km; Toc do: 1.20629
+Xe may 3:Vi Tri 8.03044 Km; Toc do: 2.25513
+Xe may 4:Vi Tri 8.49312 Km; Toc do: 1.34801
+Xe may 5:Vi Tri 9.62809 Km; Toc do: 0.1798
+Xe may 6:Vi Tri 5.22484 Km; Toc do: 1.99319
+Xe may 7:Vi Tri 6.85245 Km; Toc do: 1.49988
+Xe may 8:Vi Tri 0.969184 Km; Toc do: 0.677741
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.35332
+Xe con 1:Vi Tri 5.95161 Km; Toc do: 0.0239339
+Xe con 2:Vi Tri 8.89644 Km; Toc do: 3.29642
+Xe con 3:Vi Tri 6.34883 Km; Toc do: 2.22832
+Xe con 4:Vi Tri 1.53122 Km; Toc do: 1.15305
+Xe con 1:Vi Tri 9.51896 Km; Toc do: 3.83471
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.19276
+
+Buoc:44
+Xe may 1:Vi Tri 9.50609 Km; Toc do: 0.343723
+Xe may 2:Vi Tri 9.96143 Km; Toc do: 1.78951
+Xe may 3:Vi Tri 9.38352 Km; Toc do: 1.47578
+Xe may 4:Vi Tri 9.30193 Km; Toc do: 1.3971
+Xe may 5:Vi Tri 9.73597 Km; Toc do: 0.675424
+Xe may 6:Vi Tri 6.42076 Km; Toc do: 1.42357
+Xe may 7:Vi Tri 7.75237 Km; Toc do: 1.20217
+Xe may 8:Vi Tri 1.37583 Km; Toc do: 1.07621
+Xe may 9:Vi Tri 1.41199 Km; Toc do: 2.32645
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.533208
+Xe con 1:Vi Tri 5.96597 Km; Toc do: 0.331488
+Xe con 2:Vi Tri 6.34883 Km; Toc do: 2.22832
+Xe con 3:Vi Tri 2.22305 Km; Toc do: 2.07169
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.03634
+Xe con 1:Vi Tri 0.6 Km; Toc do: 1.19276
+
+Buoc:45
+Xe may 1:Vi Tri 9.71232 Km; Toc do: 0.504353
+Xe may 2:Vi Tri 9.38352 Km; Toc do: 1.47578
+Xe may 3:Vi Tri 9.73597 Km; Toc do: 0.675424
+Xe may 4:Vi Tri 7.2749 Km; Toc do: 0.520632
+Xe may 5:Vi Tri 8.47367 Km; Toc do: 1.25262
+Xe may 6:Vi Tri 2.02156 Km; Toc do: 1.37287
+Xe may 7:Vi Tri 2.80786 Km; Toc do: 3.04032
+Xe may 8:Vi Tri 0.919925 Km; Toc do: 0.00840765
+Xe con 1:Vi Tri 6.16486 Km; Toc do: 0.672842
+Xe con 2:Vi Tri 7.68582 Km; Toc do: 1.45288
+Xe con 3:Vi Tri 3.46607 Km; Toc do: 2.61101
+Xe con 4:Vi Tri 1.22181 Km; Toc do: 2.0287
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.159198
+Xe con 1:Vi Tri 1.31566 Km; Toc do: 1.30809
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.0633267
+
+Buoc:46
+Xe may 1:Vi Tri 9.38352 Km; Toc do: 1.47578
+Xe may 2:Vi Tri 7.2749 Km; Toc do: 0.520632
+Xe may 3:Vi Tri 9.22525 Km; Toc do: 1.58198
+Xe may 4:Vi Tri 2.84528 Km; Toc do: 1.81325
+Xe may 5:Vi Tri 4.63205 Km; Toc do: 2.37687
+Xe may 6:Vi Tri 0.924969 Km; Toc do: 0.260694
+Xe may 7:Vi Tri 0.6 Km; Toc do: 0.798105
+Xe con 1:Vi Tri 6.56857 Km; Toc do: 0.906771
+Xe con 2:Vi Tri 8.55755 Km; Toc do: 0.457658
+Xe con 3:Vi Tri 5.03267 Km; Toc do: 1.99692
+Xe con 4:Vi Tri 2.43903 Km; Toc do: 1.83134
+Xe con 5:Vi Tri 0.695519 Km; Toc do: 0.584776
+Xe con 1:Vi Tri 2.10051 Km; Toc do: 1.1042
+Xe con 2:Vi Tri 0.637996 Km; Toc do: 1.02605
+
+Buoc:47
+Xe may 1:Vi Tri 7.2749 Km; Toc do: 0.520632
+Xe may 2:Vi Tri 2.84528 Km; Toc do: 1.81325
+Xe may 3:Vi Tri 6.05817 Km; Toc do: 3.27223
+Xe may 4:Vi Tri 1.08139 Km; Toc do: 1.23321
+Xe may 5:Vi Tri 1.07886 Km; Toc do: 1.4769
+Xe may 6:Vi Tri 0.6 Km; Toc do: 0.681923
+Xe con 1:Vi Tri 7.11263 Km; Toc do: 0.985031
+Xe con 2:Vi Tri 8.83214 Km; Toc do: 1.23608
+Xe con 3:Vi Tri 6.23082 Km; Toc do: 2.88509
+Xe con 4:Vi Tri 3.53784 Km; Toc do: 2.34631
+Xe con 5:Vi Tri 1.04638 Km; Toc do: 1.4005
+Xe con 1:Vi Tri 2.76303 Km; Toc do: 0.29243
+Xe con 2:Vi Tri 1.25363 Km; Toc do: 1.55344
+
+Buoc:48
+Xe may 1:Vi Tri 7.58728 Km; Toc do: 0.235893
+Xe may 2:Vi Tri 3.93323 Km; Toc do: 1.77054
+Xe may 3:Vi Tri 8.02151 Km; Toc do: 2.81857
+Xe may 4:Vi Tri 1.82131 Km; Toc do: 0.88956
+Xe may 5:Vi Tri 1.965 Km; Toc do: 1.21766
+Xe may 6:Vi Tri 1.00915 Km; Toc do: 1.17489
+Xe may 7:Vi Tri 0.6 Km; Toc do: 0.0230789
+Xe con 1:Vi Tri 7.70365 Km; Toc do: 1.74431
+Xe con 2:Vi Tri 9.57379 Km; Toc do: 0.915865
+Xe con 3:Vi Tri 7.96188 Km; Toc do: 2.87165
+Xe con 4:Vi Tri 4.94562 Km; Toc do: 2.0295
+Xe con 5:Vi Tri 1.88668 Km; Toc do: 2.39986
+Xe con 1:Vi Tri 2.93849 Km; Toc do: 0.587041
+Xe con 2:Vi Tri 2.18569 Km; Toc do: 1.75171
+
+Buoc:49
+Xe may 1:Vi Tri 7.72882 Km; Toc do: 0.427674
+Xe may 2:Vi Tri 4.99555 Km; Toc do: 2.02317
+Xe may 3:Vi Tri 9.71265 Km; Toc do: 2.32678
+Xe may 4:Vi Tri 2.35505 Km; Toc do: 0.126853
+Xe may 5:Vi Tri 2.6956 Km; Toc do: 1.65445
+Xe may 6:Vi Tri 1.71409 Km; Toc do: 0.938571
+Xe may 7:Vi Tri 0.613847 Km; Toc do: 1.0113
+Xe may 8:Vi Tri 0.6 Km; Toc do: 0.163473
+Xe con 1:Vi Tri 8.75023 Km; Toc do: 1.73376
+Xe con 2:Vi Tri 7.96188 Km; Toc do: 2.87165
+Xe con 3:Vi Tri 6.16332 Km; Toc do: 2.35137
+Xe con 4:Vi Tri 3.3266 Km; Toc do: 3.17483
+Xe con 1:Vi Tri 3.29071 Km; Toc do: 0.545169
+Xe con 2:Vi Tri 3.23671 Km; Toc do: 2.60759
+
+Buoc:50
+Xe may 1:Vi Tri 7.98542 Km; Toc do: 0.879093
+Xe may 2:Vi Tri 6.20945 Km; Toc do: 2.88421
+Xe may 3:Vi Tri 2.35505 Km; Toc do: 0.126853
+Xe may 4:Vi Tri 3.68827 Km; Toc do: 1.9289
+Xe may 5:Vi Tri 2.27723 Km; Toc do: 1.33969
+Xe may 6:Vi Tri 1.22063 Km; Toc do: 0.220209
+Xe may 7:Vi Tri 0.698084 Km; Toc do: 0.0422085
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.26302
+Xe con 1:Vi Tri 9.79049 Km; Toc do: 2.11039
+Xe con 2:Vi Tri 9.68487 Km; Toc do: 3.70333
+Xe con 3:Vi Tri 7.57415 Km; Toc do: 1.85843
+Xe con 4:Vi Tri 5.2315 Km; Toc do: 2.90241
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.961147
+Xe con 1:Vi Tri 3.61781 Km; Toc do: 0.287948
+Xe con 2:Vi Tri 4.80126 Km; Toc do: 1.91949
+
+Buoc:51
+Xe may 1:Vi Tri 8.51288 Km; Toc do: 1.00748
+Xe may 2:Vi Tri 7.93998 Km; Toc do: 3.62773
+Xe may 3:Vi Tri 2.43116 Km; Toc do: 1.1216
+Xe may 4:Vi Tri 4.84561 Km; Toc do: 2.45539
+Xe may 5:Vi Tri 3.08104 Km; Toc do: 0.76413
+Xe may 6:Vi Tri 1.35275 Km; Toc do: 1.06279
+Xe may 7:Vi Tri 0.723409 Km; Toc do: 0.7912
+Xe may 8:Vi Tri 1.35781 Km; Toc do: 2.19483
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.286742
+Xe con 1:Vi Tri 9.68487 Km; Toc do: 3.70333
+Xe con 2:Vi Tri 8.6892 Km; Toc do: 2.66694
+Xe con 3:Vi Tri 6.97294 Km; Toc do: 3.14698
+Xe con 4:Vi Tri 1.17669 Km; Toc do: 1.80593
+Xe con 1:Vi Tri 3.79058 Km; Toc do: 0.824106
+Xe con 2:Vi Tri 5.95296 Km; Toc do: 1.60094
+
+Buoc:52
+Xe may 1:Vi Tri 9.11736 Km; Toc do: 1.2715
+Xe may 2:Vi Tri 2.43116 Km; Toc do: 1.1216
+Xe may 3:Vi Tri 6.31884 Km; Toc do: 3.26229
+Xe may 4:Vi Tri 3.53952 Km; Toc do: 0.164774
+Xe may 5:Vi Tri 1.99043 Km; Toc do: 1.57175
+Xe may 6:Vi Tri 1.19813 Km; Toc do: 0.413813
+Xe may 7:Vi Tri 2.67471 Km; Toc do: 2.67565
+Xe may 8:Vi Tri 0.772045 Km; Toc do: 0.446242
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.890141
+Xe con 1:Vi Tri 8.6892 Km; Toc do: 2.66694
+Xe con 2:Vi Tri 8.86113 Km; Toc do: 3.73112
+Xe con 3:Vi Tri 2.26024 Km; Toc do: 0.878361
+Xe con 4:Vi Tri 0.6 Km; Toc do: 0.543609
+Xe con 1:Vi Tri 4.28504 Km; Toc do: 0.658935
+Xe con 2:Vi Tri 6.91352 Km; Toc do: 2.03984
+
+Buoc:53
+Xe may 1:Vi Tri 9.88026 Km; Toc do: 1.18243
+Xe may 2:Vi Tri 3.10412 Km; Toc do: 0.774995
+Xe may 3:Vi Tri 8.27622 Km; Toc do: 3.23736
+Xe may 4:Vi Tri 3.63839 Km; Toc do: 0.107847
+Xe may 5:Vi Tri 2.93348 Km; Toc do: 0.895819
+Xe may 6:Vi Tri 1.44642 Km; Toc do: 0.416211
+Xe may 7:Vi Tri 4.2801 Km; Toc do: 3.28487
+Xe may 8:Vi Tri 1.03979 Km; Toc do: 0.752161
+Xe may 9:Vi Tri 1.13408 Km; Toc do: 0.253245
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.402918
+Xe con 1:Vi Tri 8.86113 Km; Toc do: 3.73112
+Xe con 2:Vi Tri 2.78726 Km; Toc do: 1.69829
+Xe con 3:Vi Tri 0.926165 Km; Toc do: 0.508264
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.65449
+Xe con 1:Vi Tri 4.68041 Km; Toc do: 1.03846
+Xe con 2:Vi Tri 8.13742 Km; Toc do: 2.76229
+
+Buoc:54
+Xe may 1:Vi Tri 3.10412 Km; Toc do: 0.774995
+Xe may 2:Vi Tri 3.63839 Km; Toc do: 0.107847
+Xe may 3:Vi Tri 3.47097 Km; Toc do: 1.25544
+Xe may 4:Vi Tri 1.69614 Km; Toc do: 0.407881
+Xe may 5:Vi Tri 6.25102 Km; Toc do: 2.8685
+Xe may 6:Vi Tri 1.49109 Km; Toc do: 1.09262
+Xe may 7:Vi Tri 1.28603 Km; Toc do: 0.924617
+Xe may 8:Vi Tri 0.841751 Km; Toc do: 0.602929
+Xe con 1:Vi Tri 2.78726 Km; Toc do: 1.69829
+Xe con 2:Vi Tri 1.23112 Km; Toc do: 0.661157
+Xe con 3:Vi Tri 1.59269 Km; Toc do: 2.14632
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.17349
+Xe con 1:Vi Tri 5.30348 Km; Toc do: 1.21868
+Xe con 2:Vi Tri 9.7948 Km; Toc do: 2.5625
+
+Buoc:55
+Xe may 1:Vi Tri 3.56912 Km; Toc do: 1.41479
+Xe may 2:Vi Tri 3.7031 Km; Toc do: 0.733689
+Xe may 3:Vi Tri 4.22423 Km; Toc do: 1.20705
+Xe may 4:Vi Tri 1.94087 Km; Toc do: 0.119238
+Xe may 5:Vi Tri 7.97212 Km; Toc do: 1.8999
+Xe may 6:Vi Tri 2.14666 Km; Toc do: 0.876196
+Xe may 7:Vi Tri 1.8408 Km; Toc do: 0.329263
+Xe may 8:Vi Tri 1.20351 Km; Toc do: 0.962214
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.73577
+Xe con 1:Vi Tri 3.80623 Km; Toc do: 2.18074
+Xe con 2:Vi Tri 1.62782 Km; Toc do: 1.3476
+Xe con 3:Vi Tri 2.88048 Km; Toc do: 2.09745
+Xe con 4:Vi Tri 1.3041 Km; Toc do: 1.25431
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.765752
+Xe con 1:Vi Tri 6.03469 Km; Toc do: 1.58337
+
+Buoc:56
+Xe may 1:Vi Tri 4.41799 Km; Toc do: 1.92363
+Xe may 2:Vi Tri 4.14331 Km; Toc do: 1.46265
+Xe may 3:Vi Tri 4.94846 Km; Toc do: 2.18998
+Xe may 4:Vi Tri 2.01241 Km; Toc do: 0.537787
+Xe may 5:Vi Tri 9.11206 Km; Toc do: 1.38614
+Xe may 6:Vi Tri 2.67238 Km; Toc do: 0.544368
+Xe may 7:Vi Tri 2.03836 Km; Toc do: 0.815991
+Xe may 8:Vi Tri 1.78084 Km; Toc do: 0.43939
+Xe may 9:Vi Tri 1.64146 Km; Toc do: 2.36037
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.314439
+Xe con 1:Vi Tri 5.11468 Km; Toc do: 1.462
+Xe con 2:Vi Tri 2.43638 Km; Toc do: 0.650883
+Xe con 3:Vi Tri 4.13895 Km; Toc do: 3.00111
+Xe con 4:Vi Tri 2.05668 Km; Toc do: 1.93934
+Xe con 5:Vi Tri 1.05945 Km; Toc do: 1.49615
+Xe con 1:Vi Tri 6.98472 Km; Toc do: 1.52552
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.532835
+
+Buoc:57
+Xe may 1:Vi Tri 5.57217 Km; Toc do: 1.59564
+Xe may 2:Vi Tri 5.0209 Km; Toc do: 2.20052
+Xe may 3:Vi Tri 6.26244 Km; Toc do: 1.96733
+Xe may 4:Vi Tri 2.33509 Km; Toc do: 0.635278
+Xe may 5:Vi Tri 9.94374 Km; Toc do: 2.08005
+Xe may 6:Vi Tri 2.999 Km; Toc do: 1.46564
+Xe may 7:Vi Tri 2.52795 Km; Toc do: 1.2573
+Xe may 8:Vi Tri 2.04447 Km; Toc do: 0.275315
+Xe may 9:Vi Tri 3.05769 Km; Toc do: 1.87747
+Xe may 10:Vi Tri 0.788664 Km; Toc do: 1.05481
+Xe con 1:Vi Tri 5.99188 Km; Toc do: 2.05863
+Xe con 2:Vi Tri 2.82691 Km; Toc do: 0.862705
+Xe con 3:Vi Tri 5.93962 Km; Toc do: 2.96436
+Xe con 4:Vi Tri 3.22029 Km; Toc do: 2.31107
+Xe con 5:Vi Tri 1.95714 Km; Toc do: 0.64185
+Xe con 1:Vi Tri 7.90003 Km; Toc do: 2.01729
+Xe con 2:Vi Tri 0.919701 Km; Toc do: 1.00819
+
+Buoc:58
+Xe may 1:Vi Tri 6.52955 Km; Toc do: 2.57024
+Xe may 2:Vi Tri 6.34121 Km; Toc do: 2.82839
+Xe may 3:Vi Tri 7.44284 Km; Toc do: 0.99284
+Xe may 4:Vi Tri 2.71625 Km; Toc do: 0.80768
+Xe may 5:Vi Tri 2.999 Km; Toc do: 1.46564
+Xe may 6:Vi Tri 3.28233 Km; Toc do: 0.769451
+Xe may 7:Vi Tri 2.20966 Km; Toc do: 0.605975
+Xe may 8:Vi Tri 4.18417 Km; Toc do: 2.19763
+Xe may 9:Vi Tri 1.42155 Km; Toc do: 1.50875
+Xe con 1:Vi Tri 7.22706 Km; Toc do: 1.5079
+Xe con 2:Vi Tri 3.34453 Km; Toc do: 0.614439
+Xe con 3:Vi Tri 7.71823 Km; Toc do: 2.75774
+Xe con 4:Vi Tri 4.60693 Km; Toc do: 1.88641
+Xe con 5:Vi Tri 2.34225 Km; Toc do: 0.442238
+Xe con 1:Vi Tri 9.1104 Km; Toc do: 2.72047
+Xe con 2:Vi Tri 1.52461 Km; Toc do: 0.426461
+
+Buoc:59
+Xe may 1:Vi Tri 8.0717 Km; Toc do: 3.00402
+Xe may 2:Vi Tri 8.03825 Km; Toc do: 3.52906
+Xe may 3:Vi Tri 8.03854 Km; Toc do: 1.53894
+Xe may 4:Vi Tri 3.20086 Km; Toc do: 1.63478
+Xe may 5:Vi Tri 3.87838 Km; Toc do: 0.786258
+Xe may 6:Vi Tri 3.74401 Km; Toc do: 1.41683
+Xe may 7:Vi Tri 2.57325 Km; Toc do: 0.822075
+Xe may 8:Vi Tri 5.50275 Km; Toc do: 1.92013
+Xe may 9:Vi Tri 2.3268 Km; Toc do: 1.13903
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.103978
+Xe con 1:Vi Tri 8.1318 Km; Toc do: 1.44614
+Xe con 2:Vi Tri 3.71319 Km; Toc do: 1.42909
+Xe con 3:Vi Tri 9.37288 Km; Toc do: 2.91637
+Xe con 4:Vi Tri 5.73877 Km; Toc do: 1.93002
+Xe con 5:Vi Tri 2.60759 Km; Toc do: 0.723774
+Xe con 1:Vi Tri 1.52461 Km; Toc do: 0.426461
+
+Buoc:60
+Xe may 1:Vi Tri 9.87411 Km; Toc do: 2.2228
+Xe may 2:Vi Tri 8.03854 Km; Toc do: 1.53894
+Xe may 3:Vi Tri 4.18173 Km; Toc do: 1.52421
+Xe may 4:Vi Tri 4.35014 Km; Toc do: 1.64488
+Xe may 5:Vi Tri 4.5941 Km; Toc do: 1.5116
+Xe may 6:Vi Tri 3.06649 Km; Toc do: 1.27969
+Xe may 7:Vi Tri 6.65483 Km; Toc do: 2.77742
+Xe may 8:Vi Tri 3.01022 Km; Toc do: 0.39411
+Xe may 9:Vi Tri 0.662387 Km; Toc do: 0.578213
+Xe con 1:Vi Tri 8.99948 Km; Toc do: 0.483278
+Xe con 2:Vi Tri 4.57065 Km; Toc do: 0.713973
+Xe con 3:Vi Tri 5.73877 Km; Toc do: 1.93002
+Xe con 4:Vi Tri 3.04186 Km; Toc do: 1.04391
+Xe con 1:Vi Tri 1.78049 Km; Toc do: 0.0735312
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.0350977
+
+Buoc:61
+Xe may 1:Vi Tri 8.03854 Km; Toc do: 1.53894
+Xe may 2:Vi Tri 5.09626 Km; Toc do: 0.986276
+Xe may 3:Vi Tri 5.33707 Km; Toc do: 2.0607
+Xe may 4:Vi Tri 5.50106 Km; Toc do: 1.02173
+Xe may 5:Vi Tri 3.8343 Km; Toc do: 0.716731
+Xe may 6:Vi Tri 8.32128 Km; Toc do: 2.79982
+Xe may 7:Vi Tri 3.24668 Km; Toc do: 1.3018
+Xe may 8:Vi Tri 1.00932 Km; Toc do: 1.16794
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.21527
+Xe con 1:Vi Tri 9.28945 Km; Toc do: 1.28907
+Xe con 2:Vi Tri 4.99903 Km; Toc do: 1.49126
+Xe con 3:Vi Tri 6.89679 Km; Toc do: 2.49703
+Xe con 4:Vi Tri 3.6682 Km; Toc do: 1.91643
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.65992
+Xe con 1:Vi Tri 1.82461 Km; Toc do: 0.00454694
+Xe con 2:Vi Tri 0.621059 Km; Toc do: 0.308905
+
+Buoc:62
+Xe may 1:Vi Tri 8.96191 Km; Toc do: 0.618105
+Xe may 2:Vi Tri 5.68802 Km; Toc do: 0.587016
+Xe may 3:Vi Tri 6.57349 Km; Toc do: 2.4397
+Xe may 4:Vi Tri 6.1141 Km; Toc do: 1.09881
+Xe may 5:Vi Tri 4.26434 Km; Toc do: 1.07376
+Xe may 6:Vi Tri 3.24668 Km; Toc do: 1.3018
+Xe may 7:Vi Tri 1.71008 Km; Toc do: 0.191688
+Xe may 8:Vi Tri 1.32916 Km; Toc do: 1.19446
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.350971
+Xe con 1:Vi Tri 4.99903 Km; Toc do: 1.49126
+Xe con 2:Vi Tri 8.395 Km; Toc do: 1.68692
+Xe con 3:Vi Tri 4.81806 Km; Toc do: 2.46369
+Xe con 4:Vi Tri 1.59595 Km; Toc do: 2.38055
+Xe con 1:Vi Tri 1.82734 Km; Toc do: 0.317242
+Xe con 2:Vi Tri 0.806401 Km; Toc do: 1.13352
+
+Buoc:63
+Xe may 1:Vi Tri 9.33277 Km; Toc do: 0.986948
+Xe may 2:Vi Tri 6.04023 Km; Toc do: 0.541378
+Xe may 3:Vi Tri 8.03731 Km; Toc do: 2.78682
+Xe may 4:Vi Tri 6.77339 Km; Toc do: 0.532548
+Xe may 5:Vi Tri 4.9086 Km; Toc do: 1.2075
+Xe may 6:Vi Tri 4.02776 Km; Toc do: 2.01828
+Xe may 7:Vi Tri 1.82509 Km; Toc do: 0.89667
+Xe may 8:Vi Tri 2.04584 Km; Toc do: 0.629442
+Xe may 9:Vi Tri 0.810582 Km; Toc do: 0.820783
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.8141
+Xe con 1:Vi Tri 5.89379 Km; Toc do: 1.09997
+Xe con 2:Vi Tri 9.40716 Km; Toc do: 2.11821
+Xe con 3:Vi Tri 6.29627 Km; Toc do: 1.89075
+Xe con 4:Vi Tri 3.02428 Km; Toc do: 1.39765
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.764766
+Xe con 1:Vi Tri 2.01768 Km; Toc do: 0.684248
+Xe con 2:Vi Tri 1.48651 Km; Toc do: 0.501164
+
+Buoc:64
+Xe may 1:Vi Tri 9.92494 Km; Toc do: 0.361312
+Xe may 2:Vi Tri 6.36506 Km; Toc do: 1.43201
+Xe may 3:Vi Tri 9.7094 Km; Toc do: 3.38708
+Xe may 4:Vi Tri 7.09292 Km; Toc do: 1.04534
+Xe may 5:Vi Tri 5.6331 Km; Toc do: 1.20673
+Xe may 6:Vi Tri 5.23873 Km; Toc do: 1.35433
+Xe may 7:Vi Tri 2.3631 Km; Toc do: 1.3634
+Xe may 8:Vi Tri 2.42351 Km; Toc do: 1.28376
+Xe may 9:Vi Tri 1.30305 Km; Toc do: 0.401978
+Xe may 10:Vi Tri 1.68846 Km; Toc do: 1.12482
+Xe con 1:Vi Tri 6.55377 Km; Toc do: 0.218295
+Xe con 2:Vi Tri 6.29627 Km; Toc do: 1.89075
+Xe con 3:Vi Tri 3.86287 Km; Toc do: 0.816124
+Xe con 4:Vi Tri 1.05886 Km; Toc do: 1.30512
+Xe con 1:Vi Tri 2.42823 Km; Toc do: 0.401266
+Xe con 2:Vi Tri 1.78721 Km; Toc do: 0.158672
+
+Buoc:65
+Xe may 1:Vi Tri 6.36506 Km; Toc do: 1.43201
+Xe may 2:Vi Tri 7.09292 Km; Toc do: 1.04534
+Xe may 3:Vi Tri 6.35714 Km; Toc do: 0.229011
+Xe may 4:Vi Tri 6.05133 Km; Toc do: 1.56524
+Xe may 5:Vi Tri 3.18113 Km; Toc do: 2.04602
+Xe may 6:Vi Tri 3.19376 Km; Toc do: 1.88703
+Xe may 7:Vi Tri 1.54424 Km; Toc do: 0.805478
+Xe may 8:Vi Tri 2.36335 Km; Toc do: 1.20255
+Xe con 1:Vi Tri 6.68475 Km; Toc do: 0.760116
+Xe con 2:Vi Tri 7.43072 Km; Toc do: 1.34961
+Xe con 3:Vi Tri 4.35255 Km; Toc do: 0.761632
+Xe con 4:Vi Tri 1.84193 Km; Toc do: 1.37413
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.754999
+Xe con 1:Vi Tri 2.66899 Km; Toc do: 1.13955
+Xe con 2:Vi Tri 1.88241 Km; Toc do: 0.99476
+
+Buoc:66
+Xe may 1:Vi Tri 7.22427 Km; Toc do: 0.815451
+Xe may 2:Vi Tri 7.72012 Km; Toc do: 0.698491
+Xe may 3:Vi Tri 6.49454 Km; Toc do: 0.475438
+Xe may 4:Vi Tri 6.99047 Km; Toc do: 2.22991
+Xe may 5:Vi Tri 4.40875 Km; Toc do: 1.74179
+Xe may 6:Vi Tri 4.32598 Km; Toc do: 1.77001
+Xe may 7:Vi Tri 2.02753 Km; Toc do: 0.891726
+Xe may 8:Vi Tri 3.08488 Km; Toc do: 1.59313
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.118521
+Xe con 1:Vi Tri 7.14082 Km; Toc do: 0.453524
+Xe con 2:Vi Tri 8.24049 Km; Toc do: 1.81574
+Xe con 3:Vi Tri 4.80953 Km; Toc do: 1.54565
+Xe con 4:Vi Tri 2.66641 Km; Toc do: 0.638379
+Xe con 5:Vi Tri 1.053 Km; Toc do: 1.20064
+Xe con 1:Vi Tri 3.35272 Km; Toc do: 0.401772
+Xe con 2:Vi Tri 2.47927 Km; Toc do: 0.379459
+
+Buoc:67
+Xe may 1:Vi Tri 7.71354 Km; Toc do: 1.68555
+Xe may 2:Vi Tri 8.13922 Km; Toc do: 0.742467
+Xe may 3:Vi Tri 6.77981 Km; Toc do: 1.00973
+Xe may 4:Vi Tri 8.32842 Km; Toc do: 2.09772
+Xe may 5:Vi Tri 5.45382 Km; Toc do: 1.98892
+Xe may 6:Vi Tri 5.38798 Km; Toc do: 2.52769
+Xe may 7:Vi Tri 2.56256 Km; Toc do: 0.117614
+Xe may 8:Vi Tri 4.04076 Km; Toc do: 2.54471
+Xe may 9:Vi Tri 0.671113 Km; Toc do: 0.705614
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.22834
+Xe con 1:Vi Tri 7.41293 Km; Toc do: 0.0615285
+Xe con 2:Vi Tri 9.32993 Km; Toc do: 2.63298
+Xe con 3:Vi Tri 5.73692 Km; Toc do: 1.12302
+Xe con 4:Vi Tri 3.04944 Km; Toc do: 1.29931
+Xe con 5:Vi Tri 1.77338 Km; Toc do: 0.866925
+Xe con 1:Vi Tri 3.59378 Km; Toc do: 0.816998
+Xe con 2:Vi Tri 2.70695 Km; Toc do: 1.37172
+
+Buoc:68
+Xe may 1:Vi Tri 8.72487 Km; Toc do: 1.75825
+Xe may 2:Vi Tri 8.5847 Km; Toc do: 1.27897
+Xe may 3:Vi Tri 7.38564 Km; Toc do: 0.757557
+Xe may 4:Vi Tri 9.58705 Km; Toc do: 2.90677
+Xe may 5:Vi Tri 6.64717 Km; Toc do: 2.48241
+Xe may 6:Vi Tri 6.90459 Km; Toc do: 2.15323
+Xe may 7:Vi Tri 2.63313 Km; Toc do: 0.43423
+Xe may 8:Vi Tri 5.56759 Km; Toc do: 1.79332
+Xe may 9:Vi Tri 1.09448 Km; Toc do: 0.889306
+Xe may 10:Vi Tri 1.33701 Km; Toc do: 0.899564
+Xe con 1:Vi Tri 7.44985 Km; Toc do: 0.981924
+Xe con 2:Vi Tri 5.73692 Km; Toc do: 1.12302
+Xe con 3:Vi Tri 3.82902 Km; Toc do: 1.51547
+Xe con 4:Vi Tri 2.29354 Km; Toc do: 1.28637
+Xe con 1:Vi Tri 4.08398 Km; Toc do: 1.67252
+Xe con 2:Vi Tri 3.52998 Km; Toc do: 0.912154
+
+Buoc:69
+Xe may 1:Vi Tri 9.77982 Km; Toc do: 1.29137
+Xe may 2:Vi Tri 9.35208 Km; Toc do: 0.853991
+Xe may 3:Vi Tri 7.84018 Km; Toc do: 0.0437852
+Xe may 4:Vi Tri 6.64717 Km; Toc do: 2.48241
+Xe may 5:Vi Tri 8.19653 Km; Toc do: 2.87139
+Xe may 6:Vi Tri 2.89367 Km; Toc do: 1.22841
+Xe may 7:Vi Tri 6.64358 Km; Toc do: 1.5847
+Xe may 8:Vi Tri 1.62806 Km; Toc do: 0.366773
+Xe may 9:Vi Tri 1.87674 Km; Toc do: 1.73127
+Xe con 1:Vi Tri 8.039 Km; Toc do: 1.12484
+Xe con 2:Vi Tri 6.41073 Km; Toc do: 1.30013
+Xe con 3:Vi Tri 4.73831 Km; Toc do: 1.84613
+Xe con 4:Vi Tri 3.06536 Km; Toc do: 0.592934
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.37116
+Xe con 1:Vi Tri 5.0875 Km; Toc do: 1.7679
+Xe con 2:Vi Tri 4.07727 Km; Toc do: 1.86236
+
+Buoc:70
+Xe may 1:Vi Tri 9.35208 Km; Toc do: 0.853991
+Xe may 2:Vi Tri 7.86645 Km; Toc do: 0.646544
+Xe may 3:Vi Tri 8.13662 Km; Toc do: 2.7972
+Xe may 4:Vi Tri 9.91936 Km; Toc do: 3.80651
+Xe may 5:Vi Tri 3.63072 Km; Toc do: 2.18405
+Xe may 6:Vi Tri 7.5944 Km; Toc do: 2.01582
+Xe may 7:Vi Tri 1.84813 Km; Toc do: 0.341195
+Xe may 8:Vi Tri 2.91551 Km; Toc do: 1.31941
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.68998
+Xe con 1:Vi Tri 8.71391 Km; Toc do: 0.766448
+Xe con 2:Vi Tri 7.1908 Km; Toc do: 2.19089
+Xe con 3:Vi Tri 5.84598 Km; Toc do: 1.8074
+Xe con 4:Vi Tri 3.42112 Km; Toc do: 0.585017
+Xe con 5:Vi Tri 1.42269 Km; Toc do: 1.05406
+Xe con 1:Vi Tri 6.14824 Km; Toc do: 2.24362
+Xe con 2:Vi Tri 5.19468 Km; Toc do: 0.980031
+
+Buoc:71
+Xe may 1:Vi Tri 9.86447 Km; Toc do: 0.660312
+Xe may 2:Vi Tri 8.25438 Km; Toc do: 0.152606
+Xe may 3:Vi Tri 9.81494 Km; Toc do: 2.31345
+Xe may 4:Vi Tri 3.63072 Km; Toc do: 2.18405
+Xe may 5:Vi Tri 8.80389 Km; Toc do: 1.18826
+Xe may 6:Vi Tri 2.05284 Km; Toc do: 0.601931
+Xe may 7:Vi Tri 3.70715 Km; Toc do: 0.847966
+Xe may 8:Vi Tri 1.61399 Km; Toc do: 0.773499
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.0450212
+Xe con 1:Vi Tri 9.17378 Km; Toc do: 0.248017
+Xe con 2:Vi Tri 8.50533 Km; Toc do: 1.59297
+Xe con 3:Vi Tri 6.93042 Km; Toc do: 1.07069
+Xe con 4:Vi Tri 3.77213 Km; Toc do: 0.514124
+Xe con 5:Vi Tri 2.05513 Km; Toc do: 1.67538
+Xe con 1:Vi Tri 7.49441 Km; Toc do: 3.0674
+Xe con 2:Vi Tri 5.7827 Km; Toc do: 1.94956
+
+Buoc:72
+Xe may 1:Vi Tri 8.25438 Km; Toc do: 0.152606
+Xe may 2:Vi Tri 3.63072 Km; Toc do: 2.18405
+Xe may 3:Vi Tri 9.51685 Km; Toc do: 1.41154
+Xe may 4:Vi Tri 2.414 Km; Toc do: 1.308
+Xe may 5:Vi Tri 4.21593 Km; Toc do: 0.939979
+Xe may 6:Vi Tri 2.07809 Km; Toc do: 1.45382
+Xe may 7:Vi Tri 0.627013 Km; Toc do: 0.703482
+Xe may 8:Vi Tri 0.6 Km; Toc do: 0.0219253
+Xe con 1:Vi Tri 9.32259 Km; Toc do: 1.19548
+Xe con 2:Vi Tri 9.46112 Km; Toc do: 0.82568
+Xe con 3:Vi Tri 7.57284 Km; Toc do: 0.43708
+Xe con 4:Vi Tri 4.0806 Km; Toc do: 1.43086
+Xe con 5:Vi Tri 3.06036 Km; Toc do: 2.65488
+Xe con 1:Vi Tri 9.33485 Km; Toc do: 3.52639
+Xe con 2:Vi Tri 6.95244 Km; Toc do: 2.28008
+
+Buoc:73
+Xe may 1:Vi Tri 8.34594 Km; Toc do: 0.25459
+Xe may 2:Vi Tri 4.94114 Km; Toc do: 2.47669
+Xe may 3:Vi Tri 2.414 Km; Toc do: 1.308
+Xe may 4:Vi Tri 4.77992 Km; Toc do: 0.906496
+Xe may 5:Vi Tri 2.95038 Km; Toc do: 1.8485
+Xe may 6:Vi Tri 1.0491 Km; Toc do: 0.74154
+Xe may 7:Vi Tri 0.613155 Km; Toc do: 0.428002
+Xe may 8:Vi Tri 0.6 Km; Toc do: 0.181864
+Xe con 1:Vi Tri 9.46112 Km; Toc do: 0.82568
+Xe con 2:Vi Tri 7.83509 Km; Toc do: 1.143
+Xe con 3:Vi Tri 4.93912 Km; Toc do: 2.14453
+Xe con 4:Vi Tri 4.65329 Km; Toc do: 1.92296
+Xe con 1:Vi Tri 6.95244 Km; Toc do: 2.28008
+
+Buoc:74
+Xe may 1:Vi Tri 8.49869 Km; Toc do: 0.72274
+Xe may 2:Vi Tri 6.42716 Km; Toc do: 3.33729
+Xe may 3:Vi Tri 3.1988 Km; Toc do: 2.02122
+Xe may 4:Vi Tri 5.32382 Km; Toc do: 0.355367
+Xe may 5:Vi Tri 4.05948 Km; Toc do: 1.82554
+Xe may 6:Vi Tri 1.49403 Km; Toc do: 1.49934
+Xe may 7:Vi Tri 0.869956 Km; Toc do: 0.118646
+Xe may 8:Vi Tri 0.709118 Km; Toc do: 0.271398
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.43385
+Xe con 1:Vi Tri 9.95653 Km; Toc do: 0.731612
+Xe con 2:Vi Tri 8.52089 Km; Toc do: 2.07581
+Xe con 3:Vi Tri 6.22584 Km; Toc do: 2.22853
+Xe con 4:Vi Tri 5.80706 Km; Toc do: 1.45938
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.99429
+Xe con 1:Vi Tri 8.32048 Km; Toc do: 1.51895
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.822426
+
+Buoc:75
+Xe may 1:Vi Tri 8.93234 Km; Toc do: 0.626816
+Xe may 2:Vi Tri 8.42953 Km; Toc do: 3.40747
+Xe may 3:Vi Tri 4.41154 Km; Toc do: 2.26554
+Xe may 4:Vi Tri 5.53704 Km; Toc do: 0.139106
+Xe may 5:Vi Tri 5.1548 Km; Toc do: 1.455
+Xe may 6:Vi Tri 2.39363 Km; Toc do: 0.565678
+Xe may 7:Vi Tri 0.941144 Km; Toc do: 0.642769
+Xe may 8:Vi Tri 0.871957 Km; Toc do: 0.194971
+Xe may 9:Vi Tri 1.46031 Km; Toc do: 1.67164
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.310456
+Xe con 1:Vi Tri 8.52089 Km; Toc do: 2.07581
+Xe con 2:Vi Tri 7.56296 Km; Toc do: 2.69229
+Xe con 3:Vi Tri 6.68269 Km; Toc do: 2.35225
+Xe con 4:Vi Tri 1.79658 Km; Toc do: 2.63758
+Xe con 1:Vi Tri 9.23185 Km; Toc do: 1.3519
+Xe con 2:Vi Tri 1.09346 Km; Toc do: 0.216006
+
+Buoc:76
+Xe may 1:Vi Tri 9.30843 Km; Toc do: 1.41599
+Xe may 2:Vi Tri 4.41154 Km; Toc do: 2.26554
+Xe may 3:Vi Tri 5.6205 Km; Toc do: 0.501686
+Xe may 4:Vi Tri 6.0278 Km; Toc do: 1.13835
+Xe may 5:Vi Tri 2.73304 Km; Toc do: 0.481624
+Xe may 6:Vi Tri 1.3268 Km; Toc do: 1.26602
+Xe may 7:Vi Tri 0.98894 Km; Toc do: 1.072
+Xe may 8:Vi Tri 2.46329 Km; Toc do: 0.867041
+Xe may 9:Vi Tri 0.786273 Km; Toc do: 0.318459
+Xe con 1:Vi Tri 9.76637 Km; Toc do: 2.63551
+Xe con 2:Vi Tri 9.17833 Km; Toc do: 3.50346
+Xe con 3:Vi Tri 8.09404 Km; Toc do: 2.22723
+Xe con 4:Vi Tri 3.37912 Km; Toc do: 2.44616
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.96959
+Xe con 1:Vi Tri 1.09346 Km; Toc do: 0.216006
+
+Buoc:77
+Xe may 1:Vi Tri 4.41154 Km; Toc do: 2.26554
+Xe may 2:Vi Tri 5.92151 Km; Toc do: 1.22957
+Xe may 3:Vi Tri 6.71081 Km; Toc do: 1.13889
+Xe may 4:Vi Tri 3.02201 Km; Toc do: 0.51408
+Xe may 5:Vi Tri 2.08641 Km; Toc do: 1.89339
+Xe may 6:Vi Tri 1.63214 Km; Toc do: 1.80068
+Xe may 7:Vi Tri 2.98352 Km; Toc do: 0.00350684
+Xe may 8:Vi Tri 0.977349 Km; Toc do: 0.116397
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.48445
+Xe con 1:Vi Tri 9.17833 Km; Toc do: 3.50346
+Xe con 2:Vi Tri 9.43038 Km; Toc do: 2.00192
+Xe con 3:Vi Tri 4.84682 Km; Toc do: 1.83168
+Xe con 4:Vi Tri 1.78175 Km; Toc do: 2.15959
+Xe con 1:Vi Tri 1.22306 Km; Toc do: 0.254105
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.33441
+
+Buoc:78
+Xe may 1:Vi Tri 5.77086 Km; Toc do: 1.37086
+Xe may 2:Vi Tri 6.65926 Km; Toc do: 1.19403
+Xe may 3:Vi Tri 7.39415 Km; Toc do: 1.69748
+Xe may 4:Vi Tri 3.33046 Km; Toc do: 0.92424
+Xe may 5:Vi Tri 3.22245 Km; Toc do: 2.45436
+Xe may 6:Vi Tri 2.71255 Km; Toc do: 1.16461
+Xe may 7:Vi Tri 2.98562 Km; Toc do: 0.273978
+Xe may 8:Vi Tri 1.04719 Km; Toc do: 0.0641166
+Xe may 9:Vi Tri 0.89067 Km; Toc do: 0.379195
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.836385
+Xe con 1:Vi Tri 9.43038 Km; Toc do: 2.00192
+Xe con 2:Vi Tri 5.94583 Km; Toc do: 1.73272
+Xe con 3:Vi Tri 3.07751 Km; Toc do: 2.74439
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.10276
+Xe con 1:Vi Tri 1.37552 Km; Toc do: 1.06494
+Xe con 2:Vi Tri 1.40065 Km; Toc do: 2.02425
+
+Buoc:79
+Xe may 1:Vi Tri 6.59338 Km; Toc do: 1.99813
+Xe may 2:Vi Tri 7.37567 Km; Toc do: 0.691454
+Xe may 3:Vi Tri 8.41264 Km; Toc do: 2.51896
+Xe may 4:Vi Tri 3.885 Km; Toc do: 1.89076
+Xe may 5:Vi Tri 4.69507 Km; Toc do: 2.93276
+Xe may 6:Vi Tri 3.41131 Km; Toc do: 1.03042
+Xe may 7:Vi Tri 3.15001 Km; Toc do: 0.0424198
+Xe may 8:Vi Tri 1.08566 Km; Toc do: 0.109737
+Xe may 9:Vi Tri 1.11819 Km; Toc do: 0.76795
+Xe may 10:Vi Tri 1.10183 Km; Toc do: 0.165117
+Xe con 1:Vi Tri 5.94583 Km; Toc do: 1.73272
+Xe con 2:Vi Tri 4.72415 Km; Toc do: 2.60326
+Xe con 3:Vi Tri 1.26165 Km; Toc do: 2.04418
+Xe con 4:Vi Tri 0.6 Km; Toc do: 0.88065
+Xe con 1:Vi Tri 2.01448 Km; Toc do: 0.772671
+Xe con 2:Vi Tri 2.6152 Km; Toc do: 1.85661
+
+Buoc:80
+Xe may 1:Vi Tri 7.79225 Km; Toc do: 2.62207
+Xe may 2:Vi Tri 7.79055 Km; Toc do: 0.37575
+Xe may 3:Vi Tri 9.92401 Km; Toc do: 3.06419
+Xe may 4:Vi Tri 5.01945 Km; Toc do: 2.7915
+Xe may 5:Vi Tri 6.45472 Km; Toc do: 2.49702
+Xe may 6:Vi Tri 4.02956 Km; Toc do: 1.57263
+Xe may 7:Vi Tri 3.17546 Km; Toc do: 0.436373
+Xe may 8:Vi Tri 1.1515 Km; Toc do: 1.09646
+Xe may 9:Vi Tri 1.57896 Km; Toc do: 1.37653
+Xe may 10:Vi Tri 1.2009 Km; Toc do: 0.976142
+Xe con 1:Vi Tri 6.98546 Km; Toc do: 1.79782
+Xe con 2:Vi Tri 6.2861 Km; Toc do: 2.75697
+Xe con 3:Vi Tri 2.48816 Km; Toc do: 2.68587
+Xe con 4:Vi Tri 1.12839 Km; Toc do: 0.413252
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.364424
+Xe con 1:Vi Tri 2.47809 Km; Toc do: 1.75956
+Xe con 2:Vi Tri 3.72916 Km; Toc do: 1.67834
+
+Buoc:81
+Xe may 1:Vi Tri 9.36549 Km; Toc do: 3.21905
+Xe may 2:Vi Tri 8.016 Km; Toc do: 0.787565
+Xe may 3:Vi Tri 5.01945 Km; Toc do: 2.7915
+Xe may 4:Vi Tri 7.95294 Km; Toc do: 2.82017
+Xe may 5:Vi Tri 4.97314 Km; Toc do: 2.18559
+Xe may 6:Vi Tri 3.43728 Km; Toc do: 0.406952
+Xe may 7:Vi Tri 1.80937 Km; Toc do: 2.00526
+Xe may 8:Vi Tri 2.40488 Km; Toc do: 1.39494
+Xe may 9:Vi Tri 1.78659 Km; Toc do: 1.81789
+Xe con 1:Vi Tri 8.06415 Km; Toc do: 1.59857
+Xe con 2:Vi Tri 7.94029 Km; Toc do: 2.03499
+Xe con 3:Vi Tri 4.09968 Km; Toc do: 3.03241
+Xe con 4:Vi Tri 1.37634 Km; Toc do: 0.671163
+Xe con 5:Vi Tri 0.818654 Km; Toc do: 0.947935
+Xe con 1:Vi Tri 3.53382 Km; Toc do: 1.13915
+Xe con 2:Vi Tri 4.73617 Km; Toc do: 1.5829
+
+Buoc:82
+Xe may 1:Vi Tri 8.016 Km; Toc do: 0.787565
+Xe may 2:Vi Tri 6.69436 Km; Toc do: 2.22729
+Xe may 3:Vi Tri 9.64504 Km; Toc do: 2.01305
+Xe may 4:Vi Tri 6.28449 Km; Toc do: 1.91239
+Xe may 5:Vi Tri 3.68146 Km; Toc do: 0.674301
+Xe may 6:Vi Tri 3.01253 Km; Toc do: 2.97907
+Xe may 7:Vi Tri 3.24184 Km; Toc do: 0.686224
+Xe may 8:Vi Tri 2.87732 Km; Toc do: 1.35397
+Xe may 9:Vi Tri 0.6 Km; Toc do: 0.856976
+Xe con 1:Vi Tri 9.02329 Km; Toc do: 1.98354
+Xe con 2:Vi Tri 9.16128 Km; Toc do: 2.63951
+Xe con 3:Vi Tri 5.91913 Km; Toc do: 3.76342
+Xe con 4:Vi Tri 1.77904 Km; Toc do: 1.01301
+Xe con 5:Vi Tri 1.38742 Km; Toc do: 0.257201
+Xe con 1:Vi Tri 4.21732 Km; Toc do: 0.492287
+Xe con 2:Vi Tri 5.68591 Km; Toc do: 2.37454
+
+Buoc:83
+Xe may 1:Vi Tri 8.48853 Km; Toc do: 1.38445
+Xe may 2:Vi Tri 8.03073 Km; Toc do: 2.1673
+Xe may 3:Vi Tri 6.28449 Km; Toc do: 1.91239
+Xe may 4:Vi Tri 4.08604 Km; Toc do: 0.802616
+Xe may 5:Vi Tri 4.79997 Km; Toc do: 3.15559
+Xe may 6:Vi Tri 3.65358 Km; Toc do: 0.248299
+Xe may 7:Vi Tri 3.6897 Km; Toc do: 1.21588
+Xe may 8:Vi Tri 1.11419 Km; Toc do: 1.27263
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.14224
+Xe con 1:Vi Tri 9.16128 Km; Toc do: 2.63951
+Xe con 2:Vi Tri 8.17718 Km; Toc do: 4.6876
+Xe con 3:Vi Tri 2.38685 Km; Toc do: 0.105695
+Xe con 4:Vi Tri 1.54174 Km; Toc do: 0.554295
+Xe con 1:Vi Tri 4.51269 Km; Toc do: 0.619429
+Xe con 2:Vi Tri 7.11063 Km; Toc do: 2.36734
+
+Buoc:84
+Xe may 1:Vi Tri 9.31921 Km; Toc do: 1.33592
+Xe may 2:Vi Tri 9.33111 Km; Toc do: 1.91736
+Xe may 3:Vi Tri 7.43193 Km; Toc do: 2.24605
+Xe may 4:Vi Tri 4.56761 Km; Toc do: 1.52232
+Xe may 5:Vi Tri 6.69333 Km; Toc do: 3.78058
+Xe may 6:Vi Tri 3.80256 Km; Toc do: 0.892588
+Xe may 7:Vi Tri 4.41923 Km; Toc do: 0.708327
+Xe may 8:Vi Tri 1.87777 Km; Toc do: 1.75651
+Xe may 9:Vi Tri 1.28534 Km; Toc do: 1.74582
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.24284
+Xe con 1:Vi Tri 8.17718 Km; Toc do: 4.6876
+Xe con 2:Vi Tri 2.45026 Km; Toc do: 0.862177
+Xe con 3:Vi Tri 1.87431 Km; Toc do: 0.909565
+Xe con 4:Vi Tri 0.6 Km; Toc do: 0.740956
+Xe con 1:Vi Tri 4.88435 Km; Toc do: 1.4757
+Xe con 2:Vi Tri 8.53103 Km; Toc do: 3.09892
+
+Buoc:85
+Xe may 1:Vi Tri 9.33111 Km; Toc do: 1.91736
+Xe may 2:Vi Tri 8.77956 Km; Toc do: 1.68502
+Xe may 3:Vi Tri 5.481 Km; Toc do: 0.883627
+Xe may 4:Vi Tri 8.96167 Km; Toc do: 2.85854
+Xe may 5:Vi Tri 4.33811 Km; Toc do: 0.717789
+Xe may 6:Vi Tri 4.84423 Km; Toc do: 0.375657
+Xe may 7:Vi Tri 2.93167 Km; Toc do: 1.16762
+Xe may 8:Vi Tri 2.33283 Km; Toc do: 2.47903
+Xe may 9:Vi Tri 1.3457 Km; Toc do: 2.10783
+Xe con 1:Vi Tri 2.45026 Km; Toc do: 0.862177
+Xe con 2:Vi Tri 2.42005 Km; Toc do: 1.06542
+Xe con 3:Vi Tri 1.04457 Km; Toc do: 1.22359
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.93117
+Xe con 1:Vi Tri 5.76977 Km; Toc do: 1.02459
+
+Buoc:86
+Xe may 1:Vi Tri 8.77956 Km; Toc do: 1.68502
+Xe may 2:Vi Tri 6.01117 Km; Toc do: 0.166416
+Xe may 3:Vi Tri 4.33811 Km; Toc do: 0.717789
+Xe may 4:Vi Tri 5.06962 Km; Toc do: 0.460805
+Xe may 5:Vi Tri 3.63224 Km; Toc do: 1.21439
+Xe may 6:Vi Tri 3.82025 Km; Toc do: 3.36212
+Xe may 7:Vi Tri 2.6104 Km; Toc do: 2.75401
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.30739
+Xe con 1:Vi Tri 2.96757 Km; Toc do: 0.955492
+Xe con 2:Vi Tri 3.0593 Km; Toc do: 0.970798
+Xe con 3:Vi Tri 1.77873 Km; Toc do: 0.643741
+Xe con 4:Vi Tri 1.7587 Km; Toc do: 2.09902
+Xe con 5:Vi Tri 0.6 Km; Toc do: 1.99581
+Xe con 1:Vi Tri 6.38452 Km; Toc do: 1.11395
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.0679408
+
+Buoc:87
+Xe may 1:Vi Tri 9.79057 Km; Toc do: 2.65845
+Xe may 2:Vi Tri 6.11102 Km; Toc do: 0.742573
+Xe may 3:Vi Tri 4.76878 Km; Toc do: 1.44166
+Xe may 4:Vi Tri 5.34611 Km; Toc do: 0.947381
+Xe may 5:Vi Tri 4.36087 Km; Toc do: 0.860651
+Xe may 6:Vi Tri 5.83753 Km; Toc do: 2.87377
+Xe may 7:Vi Tri 4.26281 Km; Toc do: 2.97687
+Xe may 8:Vi Tri 1.38443 Km; Toc do: 0.610989
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.59508
+Xe con 1:Vi Tri 3.54086 Km; Toc do: 1.57056
+Xe con 2:Vi Tri 3.64178 Km; Toc do: 0.0255867
+Xe con 3:Vi Tri 2.16497 Km; Toc do: 0.701198
+Xe con 4:Vi Tri 3.01812 Km; Toc do: 1.27689
+Xe con 5:Vi Tri 1.79749 Km; Toc do: 1.73803
+Xe con 1:Vi Tri 7.05289 Km; Toc do: 1.92259
+Xe con 2:Vi Tri 0.640764 Km; Toc do: 0.823006
+
+Buoc:88
+Xe may 1:Vi Tri 6.11102 Km; Toc do: 0.742573
+Xe may 2:Vi Tri 5.63378 Km; Toc do: 0.547218
+Xe may 3:Vi Tri 5.91453 Km; Toc do: 1.56376
+Xe may 4:Vi Tri 4.87726 Km; Toc do: 0.0245848
+Xe may 5:Vi Tri 7.56179 Km; Toc do: 2.39788
+Xe may 6:Vi Tri 6.04893 Km; Toc do: 2.7539
+Xe may 7:Vi Tri 1.75103 Km; Toc do: 0.659329
+Xe may 8:Vi Tri 1.55705 Km; Toc do: 1.90249
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.59169
+Xe con 1:Vi Tri 4.4832 Km; Toc do: 1.69056
+Xe con 2:Vi Tri 3.65713 Km; Toc do: 0.772597
+Xe con 3:Vi Tri 2.58569 Km; Toc do: 0.163829
+Xe con 4:Vi Tri 3.78425 Km; Toc do: 0.811736
+Xe con 5:Vi Tri 2.8403 Km; Toc do: 1.41328
+Xe con 1:Vi Tri 8.20644 Km; Toc do: 2.67175
+Xe con 2:Vi Tri 1.13457 Km; Toc do: 1.63411
+
+Buoc:89
+Xe may 1:Vi Tri 6.55657 Km; Toc do: 1.44805
+Xe may 2:Vi Tri 5.96211 Km; Toc do: 0.769095
+Xe may 3:Vi Tri 6.85279 Km; Toc do: 2.15428
+Xe may 4:Vi Tri 4.89201 Km; Toc do: 0.377219
+Xe may 5:Vi Tri 9.00052 Km; Toc do: 2.79961
+Xe may 6:Vi Tri 7.70127 Km; Toc do: 2.61318
+Xe may 7:Vi Tri 2.14662 Km; Toc do: 1.36625
+Xe may 8:Vi Tri 2.69854 Km; Toc do: 1.83068
+Xe may 9:Vi Tri 1.55501 Km; Toc do: 0.671614
+Xe may 10:Vi Tri 0.6 Km; Toc do: 0.264207
+Xe con 1:Vi Tri 5.49754 Km; Toc do: 0.694077
+Xe con 2:Vi Tri 4.12069 Km; Toc do: 0.125782
+Xe con 3:Vi Tri 2.68399 Km; Toc do: 0.15131
+Xe con 4:Vi Tri 4.27129 Km; Toc do: 0.452193
+Xe con 5:Vi Tri 3.68827 Km; Toc do: 2.20378
+Xe con 1:Vi Tri 9.80949 Km; Toc do: 2.04374
+Xe con 2:Vi Tri 2.11504 Km; Toc do: 1.71807
+
+Buoc:90
+Xe may 1:Vi Tri 7.4254 Km; Toc do: 1.66948
+Xe may 2:Vi Tri 6.42356 Km; Toc do: 0.103597
+Xe may 3:Vi Tri 8.14535 Km; Toc do: 2.59805
+Xe may 4:Vi Tri 5.11835 Km; Toc do: 0.733111
+Xe may 5:Vi Tri 7.70127 Km; Toc do: 2.61318
+Xe may 6:Vi Tri 2.96637 Km; Toc do: 0.763008
+Xe may 7:Vi Tri 3.79695 Km; Toc do: 1.07524
+Xe may 8:Vi Tri 1.95798 Km; Toc do: 0.220443
+Xe may 9:Vi Tri 0.758524 Km; Toc do: 1.0526
+Xe con 1:Vi Tri 5.91399 Km; Toc do: 1.3339
+Xe con 2:Vi Tri 4.19616 Km; Toc do: 0.18816
+Xe con 3:Vi Tri 2.77478 Km; Toc do: 0.973683
+Xe con 4:Vi Tri 4.54261 Km; Toc do: 0.465732
+Xe con 5:Vi Tri 5.01054 Km; Toc do: 1.59444
+Xe con 1:Vi Tri 2.11504 Km; Toc do: 1.71807
+
+Buoc:91
+Xe may 1:Vi Tri 8.42709 Km; Toc do: 0.684797
+Xe may 2:Vi Tri 6.48572 Km; Toc do: 0.806239
+Xe may 3:Vi Tri 9.70418 Km; Toc do: 3.38627
+Xe may 4:Vi Tri 5.55821 Km; Toc do: 1.69998
+Xe may 5:Vi Tri 9.26917 Km; Toc do: 3.27375
+Xe may 6:Vi Tri 3.42418 Km; Toc do: 0.53598
+Xe may 7:Vi Tri 4.44209 Km; Toc do: 1.66693
+Xe may 8:Vi Tri 2.09025 Km; Toc do: 0.567945
+Xe may 9:Vi Tri 1.39009 Km; Toc do: 1.41221
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.5928
+Xe con 1:Vi Tri 6.71433 Km; Toc do: 1.44596
+Xe con 2:Vi Tri 4.30906 Km; Toc do: 0.393313
+Xe con 3:Vi Tri 3.35899 Km; Toc do: 0.607196
+Xe con 4:Vi Tri 4.82205 Km; Toc do: 0.931583
+Xe con 5:Vi Tri 5.96721 Km; Toc do: 0.721648
+Xe con 1:Vi Tri 3.14588 Km; Toc do: 2.05462
+Xe con 2:Vi Tri 0.6 Km; Toc do: 0.899382
+
+Buoc:92
+Xe may 1:Vi Tri 8.83797 Km; Toc do: 1.03661
+Xe may 2:Vi Tri 6.96947 Km; Toc do: 0.367413
+Xe may 3:Vi Tri 5.55821 Km; Toc do: 1.69998
+Xe may 4:Vi Tri 3.42418 Km; Toc do: 0.53598
+Xe may 5:Vi Tri 5.44225 Km; Toc do: 1.54739
+Xe may 6:Vi Tri 2.43102 Km; Toc do: 0.451163
+Xe may 7:Vi Tri 2.23741 Km; Toc do: 1.77496
+Xe may 8:Vi Tri 1.55568 Km; Toc do: 2.1644
+Xe con 1:Vi Tri 7.58191 Km; Toc do: 1.09565
+Xe con 2:Vi Tri 4.54504 Km; Toc do: 0.200694
+Xe con 3:Vi Tri 3.7233 Km; Toc do: 1.35415
+Xe con 4:Vi Tri 5.381 Km; Toc do: 1.34243
+Xe con 5:Vi Tri 6.4002 Km; Toc do: 1.54941
+Xe con 1:Vi Tri 4.37865 Km; Toc do: 1.23128
+Xe con 2:Vi Tri 1.13963 Km; Toc do: 0.502912
+
+Buoc:93
+Xe may 1:Vi Tri 9.45993 Km; Toc do: 0.0891157
+Xe may 2:Vi Tri 7.18991 Km; Toc do: 1.33824
+Xe may 3:Vi Tri 6.5782 Km; Toc do: 1.93673
+Xe may 4:Vi Tri 3.74577 Km; Toc do: 0.995832
+Xe may 5:Vi Tri 6.37069 Km; Toc do: 1.34286
+Xe may 6:Vi Tri 2.70171 Km; Toc do: 1.12364
+Xe may 7:Vi Tri 3.30239 Km; Toc do: 1.44438
+Xe may 8:Vi Tri 2.85433 Km; Toc do: 2.16524
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.25532
+Xe con 1:Vi Tri 8.2393 Km; Toc do: 0.278172
+Xe con 2:Vi Tri 4.66546 Km; Toc do: 0.0788906
+Xe con 3:Vi Tri 4.53579 Km; Toc do: 0.941526
+Xe con 4:Vi Tri 6.18645 Km; Toc do: 0.770184
+Xe con 5:Vi Tri 7.32984 Km; Toc do: 2.04027
+Xe con 1:Vi Tri 5.11742 Km; Toc do: 1.48202
+Xe con 2:Vi Tri 1.44138 Km; Toc do: 0.0957418
+
+Buoc:94
+Xe may 1:Vi Tri 9.5134 Km; Toc do: 0.359622
+Xe may 2:Vi Tri 7.99286 Km; Toc do: 0.986728
+Xe may 3:Vi Tri 7.74024 Km; Toc do: 2.59598
+Xe may 4:Vi Tri 4.34327 Km; Toc do: 1.86536
+Xe may 5:Vi Tri 7.17641 Km; Toc do: 1.70549
+Xe may 6:Vi Tri 3.3759 Km; Toc do: 1.50055
+Xe may 7:Vi Tri 4.16902 Km; Toc do: 2.22661
+Xe may 8:Vi Tri 4.15347 Km; Toc do: 2.51273
+Xe may 9:Vi Tri 1.35319 Km; Toc do: 0.40155
+Xe may 10:Vi Tri 0.6 Km; Toc do: 1.22256
+Xe con 1:Vi Tri 8.4062 Km; Toc do: 1.11306
+Xe con 2:Vi Tri 4.71279 Km; Toc do: 1.0224
+Xe con 3:Vi Tri 5.10071 Km; Toc do: 1.52898
+Xe con 4:Vi Tri 6.64856 Km; Toc do: 0.0225253
+Xe con 5:Vi Tri 8.554 Km; Toc do: 1.31846
+Xe con 1:Vi Tri 6.00663 Km; Toc do: 1.49069
+Xe con 2:Vi Tri 1.49882 Km; Toc do: 0.399603
+
+Buoc:95
+Xe may 1:Vi Tri 9.72918 Km; Toc do: 0.406256
+Xe may 2:Vi Tri 8.5849 Km; Toc do: 0.635755
+Xe may 3:Vi Tri 9.29783 Km; Toc do: 1.76167
+Xe may 4:Vi Tri 5.46248 Km; Toc do: 1.28083
+Xe may 5:Vi Tri 8.1997 Km; Toc do: 1.27414
+Xe may 6:Vi Tri 4.27623 Km; Toc do: 0.701201
+Xe may 7:Vi Tri 5.50498 Km; Toc do: 2.93208
+Xe may 8:Vi Tri 5.66111 Km; Toc do: 2.85788
+Xe may 9:Vi Tri 1.59412 Km; Toc do: 0.272909
+Xe may 10:Vi Tri 1.33354 Km; Toc do: 0.504601
+Xe con 1:Vi Tri 9.07404 Km; Toc do: 0.209375
+Xe con 2:Vi Tri 5.32623 Km; Toc do: 0.821786
+Xe con 3:Vi Tri 6.0181 Km; Toc do: 2.3865
+Xe con 4:Vi Tri 6.66208 Km; Toc do: 0.294356
+Xe con 5:Vi Tri 9.34508 Km; Toc do: 1.68951
+Xe con 1:Vi Tri 6.90104 Km; Toc do: 2.12402
+Xe con 2:Vi Tri 1.73858 Km; Toc do: 0.371786
+
+Buoc:96
+Xe may 1:Vi Tri 9.97293 Km; Toc do: 0.671701
+Xe may 2:Vi Tri 8.96635 Km; Toc do: 1.17829
+Xe may 3:Vi Tri 5.46248 Km; Toc do: 1.28083
+Xe may 4:Vi Tri 8.96418 Km; Toc do: 1.61581
+Xe may 5:Vi Tri 4.69695 Km; Toc do: 1.0837
+Xe may 6:Vi Tri 7.26423 Km; Toc do: 1.94968
+Xe may 7:Vi Tri 7.37584 Km; Toc do: 2.98349
+Xe may 8:Vi Tri 1.75787 Km; Toc do: 0.707062
+Xe may 9:Vi Tri 1.6363 Km; Toc do: 0.610742
+Xe con 1:Vi Tri 9.19966 Km; Toc do: 0.968633
+Xe con 2:Vi Tri 5.81931 Km; Toc do: 1.08484
+Xe con 3:Vi Tri 7.45 Km; Toc do: 2.86491
+Xe con 4:Vi Tri 6.83869 Km; Toc do: 0.298368
+Xe con 1:Vi Tri 8.17546 Km; Toc do: 2.45915
+Xe con 2:Vi Tri 1.96166 Km; Toc do: 0.326554
+
+Buoc:97
+Xe may 1:Vi Tri 8.96635 Km; Toc do: 1.17829
+Xe may 2:Vi Tri 6.23098 Km; Toc do: 2.23112
+Xe may 3:Vi Tri 9.93367 Km; Toc do: 2.46406
+Xe may 4:Vi Tri 5.34717 Km; Toc do: 1.39796
+Xe may 5:Vi Tri 8.43405 Km; Toc do: 1.72534
+Xe may 6:Vi Tri 9.16593 Km; Toc do: 3.92819
+Xe may 7:Vi Tri 2.18211 Km; Toc do: 0.722721
+Xe may 8:Vi Tri 2.00274 Km; Toc do: 0.164276
+Xe may 9:Vi Tri 0.6 Km; Toc do: 1.16552
+Xe con 1:Vi Tri 9.78084 Km; Toc do: 1.02477
+Xe con 2:Vi Tri 6.47021 Km; Toc do: 1.74142
+Xe con 3:Vi Tri 9.16894 Km; Toc do: 2.70372
+Xe con 4:Vi Tri 7.01771 Km; Toc do: 0.770479
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.965124
+Xe con 1:Vi Tri 9.65095 Km; Toc do: 2.78472
+Xe con 2:Vi Tri 2.15759 Km; Toc do: 0.926511
+
+Buoc:98
+Xe may 1:Vi Tri 9.67332 Km; Toc do: 0.495388
+Xe may 2:Vi Tri 7.56965 Km; Toc do: 2.46201
+Xe may 3:Vi Tri 5.34717 Km; Toc do: 1.39796
+Xe may 4:Vi Tri 9.46925 Km; Toc do: 1.55892
+Xe may 5:Vi Tri 2.18211 Km; Toc do: 0.722721
+Xe may 6:Vi Tri 2.10131 Km; Toc do: 0.346308
+Xe may 7:Vi Tri 1.29931 Km; Toc do: 1.6945
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.22464
+Xe con 1:Vi Tri 6.47021 Km; Toc do: 1.74142
+Xe con 2:Vi Tri 7.01771 Km; Toc do: 0.770479
+Xe con 3:Vi Tri 1.17907 Km; Toc do: 1.10267
+Xe con 1:Vi Tri 2.15759 Km; Toc do: 0.926511
+
+Buoc:99
+Xe may 1:Vi Tri 9.97056 Km; Toc do: 1.11174
+Xe may 2:Vi Tri 9.04685 Km; Toc do: 1.87982
+Xe may 3:Vi Tri 6.18594 Km; Toc do: 0.611188
+Xe may 4:Vi Tri 2.18211 Km; Toc do: 0.722721
+Xe may 5:Vi Tri 2.30909 Km; Toc do: 0.410547
+Xe may 6:Vi Tri 2.31601 Km; Toc do: 0.807232
+Xe may 7:Vi Tri 1.33478 Km; Toc do: 0.449846
+Xe may 8:Vi Tri 0.6 Km; Toc do: 1.07298
+Xe con 1:Vi Tri 7.51506 Km; Toc do: 2.24221
+Xe con 2:Vi Tri 7.48 Km; Toc do: 0.0338111
+Xe con 3:Vi Tri 1.84067 Km; Toc do: 2.02367
+Xe con 4:Vi Tri 0.6 Km; Toc do: 1.97876
+Xe con 1:Vi Tri 2.71349 Km; Toc do: 1.83529
+Xe con 2:Vi Tri 0.6 Km; Toc do: 1.2782
+
+Buoc:100
+Xe may 1:Vi Tri 9.04685 Km; Toc do: 1.87982
+Xe may 2:Vi Tri 6.55266 Km; Toc do: 1.11109
+Xe may 3:Vi Tri 2.61574 Km; Toc do: 1.67251
+Xe may 4:Vi Tri 2.55542 Km; Toc do: 0.827485
+Xe may 5:Vi Tri 2.80035 Km; Toc do: 1.7108
+Xe may 6:Vi Tri 1.60469 Km; Toc do: 1.35075
+Xe may 7:Vi Tri 1.24379 Km; Toc do: 1.43301
+Xe may 8:Vi Tri 0.6 Km; Toc do: 0.091463
+Xe con 1:Vi Tri 8.86038 Km; Toc do: 2.1673
+Xe con 2:Vi Tri 7.50029 Km; Toc do: 0.978674
+Xe con 3:Vi Tri 3.05487 Km; Toc do: 1.1197
+Xe con 4:Vi Tri 1.78726 Km; Toc do: 2.38836
+Xe con 5:Vi Tri 0.6 Km; Toc do: 0.933515
+Xe con 1:Vi Tri 3.81467 Km; Toc do: 2.06355
+Xe con 2:Vi Tri 1.36692 Km; Toc do: 2.05318
+

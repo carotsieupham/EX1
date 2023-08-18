@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\EX\OOP\Point3D\Point3D\main.cpp(63,22): error C2065: 'n': undeclared identifier
+D:\EX\OOP\Point3D\Point3D\main.cpp(77,1): message : see reference to class template instantiation 'std::basic_ofstream<char,std::char_traits<char>>' being compiled
+D:\EX\OOP\Point3D\Point3D\main.cpp(66,28): error C2065: 'points': undeclared identifier
+D:\EX\OOP\Point3D\Point3D\main.cpp(72,28): error C2065: 'points': undeclared identifier
+D:\EX\OOP\Point3D\Point3D\main.cpp(63,22): error C3861: 'n': identifier not found
+D:\EX\OOP\Point3D\Point3D\main.cpp(81,1): fatal  error C1003: error count exceeds 100; stopping compilation
