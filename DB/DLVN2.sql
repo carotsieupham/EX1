@@ -10,16 +10,20 @@ create table province(
 	population int,
 	Area float,
 	countryid char(3),
-    foreign key (coutryid) references country(countryid)
+    foreign key (countryid) references country(countryid)
     );
 create table border(
 	provinceid char(3),
 	nationid char(3),
-	primary key(provinceid,nationid));
+	primary key(provinceid,nationid),
+     foreign key (provinceid ) references province(provinceid ));
 create table neighbor(
 	provinceid char(3),
 	neighborid char(3),
-	primary key(provinceid,neighborid));
+	primary key(provinceid,neighborid),
+    foreign key (provinceid ) references province(provinceid),
+    foreign key (neighborid) references province(provinceid)
+    );
 insert into country
 values
 ('C01','Bac'),
@@ -120,7 +124,6 @@ values
 ('DTP','CPC'),
 ('AGI','CPC'),
 ('KGI','CPC');
-select * from province;
 insert into neighbor
 values
 ('HGI','CBA'),
@@ -393,56 +396,3 @@ values
 ('BLI','KGI'),
 ('CMU','BLI'),
 ('CMU','KGI');
-select * from neighbor;
-delete from neighbor;
-select * from neighbor A
-where not exists
-(select * 
-from neighbor
-where A.provinceid=neighborid and A.neighborid = provinceid);
-select provinceid ,count(*)
-from neighbor
-group by provinceid;
-select count(*)
-from border;
-
-select A.provinceid,B.provincename
-from border A,province B
-where A.provinceid=B.provinceid
-group by A.provinceid,B.provincename
-having count(*)>=2;
-
-select A.* 
-from province A, neighbor B,province C
-where A.provinceid=B.provinceid and A.countryid='C02' and B.neighborid=C.provinceid and C.countryid='C01';
-
-select  avg(area)
-from province
-where provinceid in (
-select provinceid
-from border);
-
-select * 
-from province
-where countryid='C03' and area >= all(select area
-				 from province
-				 where countryid='C03');
-
-select countryid,provinceid,provincename,area
-from province A
-where  area >= all(select area
-				 from province
-				 where A.countryid=countryid)
-order by countryid;
-
-select *
-from province
-where countryid='C03' and area>= all(select avg(area)
-					from province
-					where countryid='C01');
-
-select *
-from province
-where countryid='C03' and population>= all(select avg(population)
-					from province
-					where countryid='C01');

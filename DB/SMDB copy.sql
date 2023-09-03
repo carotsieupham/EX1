@@ -6,17 +6,6 @@ create table Subject
 	 SubjectName varchar(30), 
 	 Units int 
 );
-alter table 
-alter column subjectName
-set not null
-alter table subject
-alter column Units
-set not null;
-alter table subject
-add unique(subjectname);
-alter table subject
-add constraint KTunits
-check ( units>0);
 
 create table Classes 
 ( 
@@ -24,10 +13,7 @@ create table Classes
 	ClassName varchar(30), 
 	ClassYear int 
 );
-alter table Classes alter column classname set not null;
-alter table Classes
-alter column classyear
-set not null;
+
 create table Student 
 ( 
 	StudentID char(3) primary key, 
@@ -36,19 +22,7 @@ create table Student
 	ClassID char(3), 
     Foreign key(classid)references classes(classid)
 );
-alter table Student
-alter column Studentname 
-set not null;
-alter table Student
-alter column Studentaddress
-set not null;
-alter table Student
-alter column classid 
-set not null;
-alter table student
-add constraint FK1
-Foreign key(classid)
-references classes(classid);
+
 create table StudentGrades 
 ( 
 	StudentID char(3), 
@@ -60,21 +34,7 @@ create table StudentGrades
 	Foreign key(subjectid)references subject(subjectid)
 
 );
-alter table studentgrades
-add constraint FK4
-Foreign key(studentid)
-references student(studentid)
-alter table studentgrades
-add constraint FK3
-Foreign key(subjectid)
-references subject(subjectid)
-alter table Studentgrades
-alter column Grades
-set not null
-alter table studentgrades
-add constraint KTgrades
-check(grades >=0 and grades<=10)
-drop table studentgrades
+
 insert into subject
 values
 ('S01','Toan',3),
@@ -154,39 +114,5 @@ values
 ('T10','S02',4),
 ('T10','S03',3),
 ('T10','S04',8),
-('T10','S05',7)
+('T10','S05',7);
 
-delete from studentgrades
- insert into subject
- values('S07')
- delete from subject
- where subjectid='S07'
-dau 3 rot 2
-select *
-from student
-where studentid in (select studentid
-				   from studentgrades
-				   where grades >=5
-				   group by studentid
-				   having count(*)=3)
-and studentid in  (select studentid
-				  from studentgrades
-				  where grades <5
-				  group by studentid
-				  having count(*)=2)
-select distinct Y.*
-from studentgrades X,student Y
-where X.studentid = Y.studentid
- and not exists (select *
-				from subject
-				where subjectid not in
-				(select subjectid from studentgrades
-				where grades >=5
-				and X.studentid = studentid))
-select * from subject
-insert into subject
-values
-('S07','xx',-3)
-insert into student
-values
-('xxx','hello','q1','yyy')
