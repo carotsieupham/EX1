@@ -1,18 +1,21 @@
+
 create table Category 
 ( 
     CategoryID char(3) primary key, 
-    CategoryName varchar(30) )
+    CategoryName varchar(30) );
 alter table category
 alter column categoryname
 set not null
 alter table category
-add unique(categoryname)
+add unique(categoryname);
 create table  Product 
 ( 
     ProductID  char(3) primary key, 
     ProductName varchar(30), 
     UnitPrice real, 
-    CategoryID char(3))
+    CategoryID char(3),
+    foreign key CategoryID references Category(CategoryID)
+    );
 alter table product
 alter column productname
 set not null

@@ -20,7 +20,7 @@ create table Student
 	StudentName varchar(30),
 	StudentAddress varchar(30), 
 	ClassID char(3), 
-    Foreign key(classid)references classes(classid)
+    Foreign key(ClassID )references Classes(ClassID )
 );
 
 create table StudentGrades 
@@ -30,8 +30,8 @@ create table StudentGrades
 	Grades real,
 	primary key(StudentID , 
 	SubjectID),
-	Foreign key(studentid)references student(studentid),
-	Foreign key(subjectid)references subject(subjectid)
+	Foreign key(StudentID )references Student(StudentID ),
+	Foreign key(SubjectID)references Subject(SubjectID)
 
 );
 
@@ -41,13 +41,13 @@ values
 ('S02','Ly',2),
 ('S03','Hoa',2),
 ('S04','Sinh',1),
-('S05','Su',1)
+('S05','Su',1);
 insert into classes
 values
 ('C01','CN',2021),
 ('C02','XD',2022),
-('C03','QC',2019)
-delete from classes
+('C03','QC',2019);
+
 insert into student
 values
 ('T01','Tran Minh Tri','Binh Thanh','C01'),
@@ -69,7 +69,7 @@ values
 ('T17','Phan Thinh','Quan 12','C02'),
 ('T18','Ho Gia Bao','Quan 2','C03'),
 ('T19','Ho Gia Y','Quan 8','C03'),
-('T20','Do Thi Hoa','Quan 7','C03')
+('T20','Do Thi Hoa','Quan 7','C03');
 insert into studentgrades
 values
 ('T01','S01',2),
