@@ -1,50 +1,32 @@
-#include<iostream>
-#include <math.h>
-#include<string>
+#include <iostream>
 using namespace std;
-void input_interger(string label,int &h);
-void input_array(int *arr ,int size);
-void print_array(int * arr , int size);
-void push(int* &arr, int &size, int x);
-int main()
-{
-	int n ,x;
-    int *numbers = new int[n];
-    input_interger("N=",n);
-    cout<<"Nhap mang:";
-    input_array(numbers,n);
-    input_interger("x=",x);
-    push(numbers,n,x);
-    
 
-    cout<<"Mang sau khi them:";
-    print_array(numbers,n);}
-void input_interger(string label,int &h){
-    cout<<label;
-    cin>>h;
-}
-void input_array(int *arr ,int size){
-    for (int i = 0; i < size; i++)
-    {
-        cin>>arr[i];
+int UCLN(int a, int b) {
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
     }
-    
+    return a;
 }
-void print_array(int * arr , int size){
-    for (int i = 0; i < size; i++)
-    {
-        cout<< arr[i]<<" ";
-    }
+
+int BCNN(int a, int b) {
+    return (a * b) / UCLN(a, b);
 }
-void push(int* &arr, int &size, int x){
-    int new_size=size +1;
-    int *tmp_arr = new int [new_size];
-    for (int i = 0; i < size; i++)
-    {
-        tmp_arr[i]=arr[i];
+
+int main() {
+    int num1, num2;
+    cout << "Nhập số nguyên dương thứ nhất: ";
+    cin >> num1;
+    cout << "Nhập số nguyên dương thứ hai: ";
+    cin >> num2;
+
+    if (num1 <= 0 || num2 <= 0) {
+        cout << "Vui lòng nhập số nguyên dương." << endl;
+    } else {
+        int bcnn = BCNN(num1, num2);
+        cout << "Bội chung nhỏ nhất của " << num1 << " và " << num2 << " là: " << bcnn << endl;
     }
-    tmp_arr[new_size -1] =x;
-    delete []arr;
-    arr = tmp_arr;
-    size = new_size;
+
+    return 0;
 }

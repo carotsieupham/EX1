@@ -9,24 +9,7 @@ int Fibo(int n)
 }	
 int main()
 {   int n;
-cout<<"Nhap so phan tu can tim";cin>>n;
-	cout<<"\n"<<n<<" phan tu dau tien cua day Fibonacci la:\n";
-	for(int i=1; i<=n; i++){
-	cout<<Fibo(i)<<"\t";}
-    cout<<endl;
-    cout<<"Phan tu chan cua day"<<endl;
-    for(int i=1;i<=n;i++){
-        if (Fibo(i)%2==0)
-        {   
-            cout<<Fibo(i)<<"\t";
-        }
-    }
-    cout<<endl;
-    cout<<"Phan tu le cua day"<<endl;
-    for(int i=1;i<=n;i++){
-        if (Fibo(i)%2!=0)
-        {   
-            cout<<Fibo(i)<<"\t";
-        }
-    }
+    cout<<"Nhap so phan tu can tim";cin>>n;
+    int result= Fibo(n);
+	cout << "Phần tử thứ " << n << " trong dãy Fibonacci là: " << result << endl;
 }

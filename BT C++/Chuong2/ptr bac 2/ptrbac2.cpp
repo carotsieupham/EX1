@@ -13,8 +13,6 @@ int main(){
             cout<<"ptr vo nghiem";
 
         }
-        
-
     }
     else{
         delta=b*b-4*a*c;
